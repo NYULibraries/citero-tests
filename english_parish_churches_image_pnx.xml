@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>000800455</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph000800455</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01000800455</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>image</type>
+    <title>English parish churches</title>
+    <contributor>Donna Chaproniere; Phillip Lindley</contributor>
+    <edition>Release 1.</edition>
+    <publisher>Turnhout, Belgium : Brepols</publisher>
+    <creationdate>c2001-</creationdate>
+    <format>computer optical discs : col. and b&amp;w ; 4 3/4 in.</format>
+    <identifier>$$Cisbn$$V2503510477 (v. 1); $$Cisbn$$V9782503510477</identifier>
+    <subject>Church buildings -- England -- Photographs; Church decoration and ornament -- England -- Photographs; Architecture -- England -- Photographs; England -- Church history</subject>
+    <description>$$Ccontents$$Vv. 1. East Anglia South</description>
+    <description>$$Csummary$$VExamines the history and architectural features of English parish churches, drawing on a photographic archive developed since the early 1950s. The photographs range from general views of churches in the landscape, to views of exterior and interior details including roofs, benchends, fonts, pulpits, monuments, and stained glass. The archive is arranged geologically and regionally, relating the development of parish churches to the economic and landscape history of their localities. Included is a searchable glossary which explains art historical and architectural terms used throughout the textual descriptions.</description>
+    <language>eng</language>
+    <source>nyu_aleph</source>
+    <availlibrary>$$INYU$$LIFA$$1Visual Resources$$2(CD-ROM 4 Non-circulating )$$Savailable$$31$$40$$5Y$$60$$XNYU50$$YNIFA$$ZVIS</availlibrary>
+    <lds02>nyu_aleph000800455</lds02>
+    <lds01>NYU</lds01>
+    <availinstitution>$$INYU$$Savailable</availinstitution>
+    <availpnx>available</availpnx>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <thumbnail>$$Tamazon_thumb</thumbnail>
+    <linktotoc>$$Tamazon_toc$$DCheck for Amazon Search Inside</linktotoc>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tamazon_uc$$DCheck Amazon</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DCheck other libraries (WorldCat®)</linktouc>
+    <linktoexcerpt>$$Tsyndetics_excerpt$$DExcerpt from item</linktoexcerpt>
+  </links>
+  <search>
+    <creatorcontrib>[photographs, settlement descriptions, and introductory text by Donna Chaproniere ; project manager, Phillip Lindley].</creatorcontrib>
+    <creatorcontrib>Donna.  Chaproniere</creatorcontrib>
+    <creatorcontrib>Phillip.  Lindley</creatorcontrib>
+    <creatorcontrib>Chaproniere, D</creatorcontrib>
+    <creatorcontrib>Lindley, P</creatorcontrib>
+    <creatorcontrib>Lindley, P. G. (Phillip G.)</creatorcontrib>
+    <title>English parish churches</title>
+    <description>Examines the history and architectural features of English parish churches, drawing on a photographic archive developed since the early 1950s. The photographs range from general views of churches in the landscape, to views of exterior and interior details including roofs, benchends, fonts, pulpits, monuments, and stained glass. The archive is arranged geologically and regionally, relating the development of parish churches to the economic and landscape history of their localities. Included is a searchable glossary which explains art historical and architectural terms used throughout the textual descriptions.</description>
+    <subject>Church buildings  England Photographs</subject>
+    <subject>Church decoration and ornament  England Photographs</subject>
+    <subject>Architecture  England Photographs</subject>
+    <subject>England  Church history</subject>
+    <subject>Angleterre</subject>
+    <subject>Inglaterra</subject>
+    <subject>Inghilterra</subject>
+    <subject>Anglii͡a</subject>
+    <subject>Engeland</subject>
+    <subject>Ecclesiastical decoration and ornament</subject>
+    <subject>Church ornament</subject>
+    <subject>Churches</subject>
+    <subject>Buildings Design and construction</subject>
+    <subject>Construction</subject>
+    <subject>Building design</subject>
+    <subject>Western architecture (Western countries)</subject>
+    <subject>Architecture, Western (Western countries)</subject>
+    <general>Brepols,</general>
+    <general>Description based on disc label.</general>
+    <general>Vol. 1 accompanied by map (folded) and guide (24 p.).</general>
+    <general>[electronic resource] /</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph000800455</recordid>
+    <isbn>2503510477</isbn>
+    <isbn>9782503510477</isbn>
+    <toc>v. 1. East Anglia South</toc>
+    <rsrctype>image</rsrctype>
+    <creationdate>2001</creationdate>
+    <creationdate>9999</creationdate>
+    <searchscope>NIFA</searchscope>
+    <searchscope>NIFA Visual Resources</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYU</searchscope>
+    <searchscope>IFA</searchscope>
+    <scope>NIFA</scope>
+    <scope>NIFA Visual Resources</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYU</scope>
+    <scope>IFA</scope>
+    <lsr01>CD-ROM 4</lsr01>
+    <lsr02>Brepols,</lsr02>
+    <lsr10>2503510477</lsr10>
+    <lsr10>9782503510477</lsr10>
+  </search>
+  <sort>
+    <title>English parish churches</title>
+    <creationdate>2001</creationdate>
+    <author>Chaproniere, Donna.</author>
+    <lso01>2001</lso01>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <creationdate>2001</creationdate>
+    <topic>Church buildings–England–Photographs</topic>
+    <topic>Church decoration and ornament–England–Photographs</topic>
+    <topic>Architecture–England–Photographs</topic>
+    <topic>England–Church history</topic>
+    <collection>NIFA</collection>
+    <toplevel>available</toplevel>
+    <prefilter>images</prefilter>
+    <rsrctype>images</rsrctype>
+    <creatorcontrib>Chaproniere, D</creatorcontrib>
+    <creatorcontrib>Lindley, P</creatorcontrib>
+    <genre>Photographs</genre>
+    <library>IFA</library>
+    <lfc01>Visual Resources</lfc01>
+    <newrecords>20111230_231</newrecords>
+    <classificationlcc>N - Fine arts.–Architecture</classificationlcc>
+    <frbrgroupid>429102430</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c2>2503510477;9782503510477</c2>
+    <c3>englishparishchurches</c3>
+    <c4>2001</c4>
+    <f3>2503510477;9782503510477</f3>
+    <f5>englishparishchurches</f5>
+    <f6>2001</f6>
+    <f7>english parish churches</f7>
+    <f8>be</f8>
+    <f9>computer optical discs :</f9>
+    <f10>brepols</f10>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kchaproniere donna$$AA</k1>
+    <k1>$$Klindley phillip$$AA</k1>
+    <k3>$$Kimageenglish parish churches$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYU</institution>
+    <delcategory>Physical Item</delcategory>
+  </delivery>
+  <enrichment>
+    <classificationlcc>NA5461</classificationlcc>
+  </enrichment>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <aulast>Chaproniere</aulast>
+    <aufirst>Donna.</aufirst>
+    <addau>Chaproniere, Donna</addau>
+    <addau>Lindley, Phillip</addau>
+    <btitle>English parish churches</btitle>
+    <date>2001</date>
+    <risdate>c2001-</risdate>
+    <isbn>2503510477</isbn>
+    <isbn>9782503510477</isbn>
+    <format>image</format>
+    <genre>image</genre>
+    <ristype>GEN</ristype>
+    <abstract>Examines the history and architectural features of English parish churches, drawing on a photographic archive developed since the early 1950s. The photographs range from general views of churches in the landscape, to views of exterior and interior details including roofs, benchends, fonts, pulpits, monuments, and stained glass. The archive is arranged geologically and regionally, relating the development of parish churches to the economic and landscape history of their localities. Included is a searchable glossary which explains art historical and architectural terms used throughout the textual descriptions.</abstract>
+    <cop>Turnhout, Belgium</cop>
+    <pub>Brepols</pub>
+    <lad01>NIFA</lad01>
+    <lad01>Physical Item</lad01>
+  </addata>
+</record>

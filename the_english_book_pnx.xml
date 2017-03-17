@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>002068686</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph002068686</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01002068686</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>book</type>
+    <title>The English</title>
+    <creator>G. R.  Elton  (Geoffrey Rudolph)</creator>
+    <publisher>Oxford, UK ; Cambridge, USA : Blackwell</publisher>
+    <creationdate>1992</creationdate>
+    <format>xiii, 248 p. : ill., maps ; 24 cm.</format>
+    <identifier>$$Cisbn$$V0631176810 (acid-free paper); $$Cisbn$$V9780631176817</identifier>
+    <subject>National characteristics, English; England -- Civilization</subject>
+    <language>eng</language>
+    <relation>$$Cseries $$VPeoples of Europe.</relation>
+    <source>nyu_aleph</source>
+    <availlibrary>$$INYU$$LBOBST$$1Main Collection$$2(DA118 .E48 1992 )$$Sunavailable$$31$$41$$5N$$62$$XNYU50$$YBOBST$$ZMAIN</availlibrary>
+    <lds02>nyu_aleph002068686</lds02>
+    <lds01>NYU</lds01>
+    <availinstitution>$$INYU$$Sunavailable</availinstitution>
+    <availpnx>unavailable</availpnx>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <thumbnail>$$Tamazon_thumb</thumbnail>
+    <linktotoc>$$Tamazon_toc$$DCheck for Amazon Search Inside</linktotoc>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tamazon_uc$$DCheck Amazon</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DCheck other libraries (WorldCat®)</linktouc>
+    <linktoexcerpt>$$Tsyndetics_excerpt$$DExcerpt from item</linktoexcerpt>
+  </links>
+  <search>
+    <creatorcontrib>G. R.  Elton  (Geoffrey Rudolph)</creatorcontrib>
+    <creatorcontrib>Elton, G. R. (Geoffrey Rudolph)</creatorcontrib>
+    <creatorcontrib>Elton, G</creatorcontrib>
+    <creatorcontrib>Geoffrey Elton.</creatorcontrib>
+    <creatorcontrib>Elton, Geoffrey Rudolph</creatorcontrib>
+    <title>The English /</title>
+    <subject>National characteristics, English</subject>
+    <subject>England  Civilization</subject>
+    <subject>English national characteristics</subject>
+    <subject>Angleterre</subject>
+    <subject>Inglaterra</subject>
+    <subject>Inghilterra</subject>
+    <subject>Anglii͡a</subject>
+    <subject>Engeland</subject>
+    <general>Blackwell,</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph002068686</recordid>
+    <isbn>0631176810</isbn>
+    <isbn>9780631176817</isbn>
+    <rsrctype>book</rsrctype>
+    <creationdate>1992</creationdate>
+    <addtitle>The Peoples of Europe</addtitle>
+    <addtitle>Peoples of Europe.</addtitle>
+    <searchscope>BOBST</searchscope>
+    <searchscope>BOBST Main Collection</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYU</searchscope>
+    <scope>BOBST</scope>
+    <scope>BOBST Main Collection</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYU</scope>
+    <lsr01>DA118 .E48 1992</lsr01>
+    <lsr01>DA118.E48 1992</lsr01>
+    <lsr02>Blackwell,</lsr02>
+    <lsr10>0631176810</lsr10>
+    <lsr10>9780631176817</lsr10>
+  </search>
+  <sort>
+    <title>English /</title>
+    <creationdate>1992</creationdate>
+    <author>Elton, G. R. (Geoffrey Rudolph)</author>
+    <lso01>1992</lso01>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <creationdate>1992</creationdate>
+    <topic>National characteristics, English</topic>
+    <topic>England–Civilization</topic>
+    <collection>BOBST</collection>
+    <prefilter>books</prefilter>
+    <rsrctype>books</rsrctype>
+    <creatorcontrib>Elton, G</creatorcontrib>
+    <library>BOBST</library>
+    <lfc01>Main Collection</lfc01>
+    <newrecords>20111231_191</newrecords>
+    <classificationlcc>D - History (general) and history of europe.–History of Great Britain–England–History–Antiquities. Social life and customs. Ethnography</classificationlcc>
+    <frbrgroupid>429308321</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c1>92019106</c1>
+    <c2>0631176810;9780631176817</c2>
+    <c3>english</c3>
+    <c4>1992</c4>
+    <f1>92019106</f1>
+    <f3>0631176810;9780631176817</f3>
+    <f5>english</f5>
+    <f6>1992</f6>
+    <f7>english</f7>
+    <f8>enk</f8>
+    <f9>xiii, 248 p. :</f9>
+    <f10>blackwell</f10>
+    <f11>elton g r geoffrey rudolph</f11>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kelton g r geoffrey rudolph$$AA</k1>
+    <k3>$$Kbookenglish$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYU</institution>
+    <delcategory>Physical Item</delcategory>
+  </delivery>
+  <enrichment>
+    <classificationlcc>DA118</classificationlcc>
+  </enrichment>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <aulast>Elton</aulast>
+    <aufirst>G. R.</aufirst>
+    <au>Elton, G. R. (Geoffrey Rudolph)</au>
+    <btitle>The English</btitle>
+    <seriestitle>Peoples of Europe</seriestitle>
+    <date>1992</date>
+    <risdate>1992.</risdate>
+    <isbn>0631176810</isbn>
+    <isbn>9780631176817</isbn>
+    <format>book</format>
+    <genre>book</genre>
+    <ristype>BOOK</ristype>
+    <notes>Includes bibliographical references (p. [236]-2399) and index.</notes>
+    <cop>Oxford, UK %3B Cambridge, USA</cop>
+    <pub>Blackwell</pub>
+    <lccn>92019106</lccn>
+    <lad01>BOBST</lad01>
+    <lad01>Physical Item</lad01>
+  </addata>
+</record>

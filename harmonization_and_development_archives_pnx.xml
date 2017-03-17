@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>004453285</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph004453285</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01004453285</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>archives</type>
+    <title>Harmonization and development of resources and tools for Italian natural language processing within the PARLI Project</title>
+    <contributor>Roberto Basili editor.; Cristina Bosco editor.; Rodolfo Delmonte editor.; Alessandro Moschitti editor.; Maria Simi editor.</contributor>
+    <publisher>Cham : Springer</publisher>
+    <creationdate>2015</creationdate>
+    <format>1 online resource (xiv, 171 pages) : illustrations.</format>
+    <identifier>$$Cisbn$$V9783319142067; $$Cisbn$$V3319142062; $$Cisbn$$V3319142054 (print); $$Cisbn$$V9783319142050 (print)</identifier>
+    <subject>Natural language processing (Computer science); Italian language -- Data processing; Computational intelligence; Artificial Intelligence (incl. Robotics); Electronic books</subject>
+    <description>$$Csummary$$VThe papers collected in this volume are selected as a sample of the progress in Natural Language Processing (NLP) performed within the Italian NLP community and especially attested by the PARLI project. PARLI (Portale per l?Accesso alle Risorse in Lingua Italiana) is a project partially funded by the Ministero Italiano per l?Università e la Ricerca (PRIN 2008) from 2008 to 2012 for monitoring and fostering the harmonic growth and coordination of the activities of Italian NLP. It was proposed by various teams of researchers working in Italian universities and research institutions. According to the spirit of the PARLI project, most of the resources and tools created within the project and here described are freely distributed and they did not terminate their life at the end of the project itself, hoping they could be a key factor in future development of computational linguistics.</description>
+    <language>eng</language>
+    <relation>$$Cseries $$VStudies in computational intelligence ; volume 589. 1860-949X</relation>
+    <source>nyu_aleph</source>
+    <rights>Access is restricted to users affiliated with licensed institutions.</rights>
+    <availlibrary>$$INYU$$LBWEB$$1Internet Resources$$2(QA76.9.N38 H37 2015eb Electronic access )$$Scheck_holdings$$XNYU50$$YBWEB$$ZBNYUI</availlibrary>
+    <availlibrary>$$ICU$$LCU$$1Restricted Internet Resources$$2(QA76.9.N38 H37 2015eb Electronic access )$$Scheck_holdings$$XNYU50$$YCU$$ZNET</availlibrary>
+    <lds02>nyu_aleph004453285</lds02>
+    <lds01>NYU</lds01>
+    <lds01>CU</lds01>
+    <lds01>NYUAD</lds01>
+    <lds01>NYUSH</lds01>
+    <availinstitution>$$ICU$$Scheck_holdings</availinstitution>
+    <availinstitution>$$INYU$$Scheck_holdings</availinstitution>
+    <availpnx>unavailable</availpnx>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://link.springer.com/10.1007/978-3-319-14206-7$$DSpringerLink$$INYU</linktorsrc>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://link.springer.com/10.1007/978-3-319-14206-7$$DSpringerLink$$INYUAD</linktorsrc>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://link.springer.com/10.1007/978-3-319-14206-7$$DSpringerLink$$INYUSH</linktorsrc>
+    <linktorsrc>$$Uhttp://proxy.library.cooper.edu:2048/login?url=http://link.springer.com/10.1007/978-3-319-14206-7$$DSpringerLink$$ICU</linktorsrc>
+    <thumbnail>$$Tamazon_thumb</thumbnail>
+    <linktotoc>$$Tamazon_toc$$DCheck for Amazon Search Inside</linktotoc>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tamazon_uc$$DCheck Amazon</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DCheck other libraries (WorldCat®)</linktouc>
+    <linktoexcerpt>$$Tsyndetics_excerpt$$DExcerpt from item</linktoexcerpt>
+  </links>
+  <search>
+    <creatorcontrib>Roberto Basili, Cristina Bosco, Rodolfo Delmonte, Alessandro Moschitti, Maria Simi, editors.</creatorcontrib>
+    <creatorcontrib>Roberto,  Basili  editor.</creatorcontrib>
+    <creatorcontrib>Cristina,  Bosco  editor.</creatorcontrib>
+    <creatorcontrib>Rodolfo,  Delmonte  editor.</creatorcontrib>
+    <creatorcontrib>Alessandro,  Moschitti  editor.</creatorcontrib>
+    <creatorcontrib>Maria,  Simi  editor.</creatorcontrib>
+    <creatorcontrib>Basili, R</creatorcontrib>
+    <creatorcontrib>Bosco, C</creatorcontrib>
+    <creatorcontrib>Delmonte, R</creatorcontrib>
+    <creatorcontrib>Moschitti, A</creatorcontrib>
+    <creatorcontrib>Simi, M</creatorcontrib>
+    <creatorcontrib>Delmonte, Roldolfo</creatorcontrib>
+    <title>Harmonization and development of resources and tools for Italian natural language processing within the PARLI Project /</title>
+    <description>The papers collected in this volume are selected as a sample of the progress in Natural Language Processing (NLP) performed within the Italian NLP community and especially attested by the PARLI project. PARLI (Portale per l?Accesso alle Risorse in Lingua Italiana) is a project partially funded by the Ministero Italiano per l?Università e la Ricerca (PRIN 2008) from 2008 to 2012 for monitoring and fostering the harmonic growth and coordination of the activities of Italian NLP. It was proposed by various teams of researchers working in Italian universities and research institutions. According to the spirit of the PARLI project, most of the resources and tools created within the project and here described are freely distributed and they did not terminate their life at the end of the project itself, hoping they could be a key factor in future development of computational linguistics.</description>
+    <subject>Natural language processing (Computer science)</subject>
+    <subject>Italian language  Data processing</subject>
+    <subject>Computational intelligence</subject>
+    <subject>Artificial Intelligence (incl. Robotics)</subject>
+    <subject>Electronic books</subject>
+    <subject>NLP (Computer science)</subject>
+    <subject>Intelligence, Computational</subject>
+    <general>Springer,</general>
+    <general>10.1007/978-3-319-14206-7</general>
+    <general>sprnglnk</general>
+    <general>902626732</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph004453285</recordid>
+    <isbn>9783319142067</isbn>
+    <isbn>3319142062</isbn>
+    <isbn>9783319142050</isbn>
+    <isbn>3319142054</isbn>
+    <rsrctype>archives</rsrctype>
+    <creationdate>2015</creationdate>
+    <addtitle>Studies in Computational Intelligence, volume 589</addtitle>
+    <addtitle>Studies in computational intelligence ; volume 589.</addtitle>
+    <searchscope>BWEB</searchscope>
+    <searchscope>BWEB Internet Resources</searchscope>
+    <searchscope>CU</searchscope>
+    <searchscope>CU Restricted Internet Resources</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>CWEB</searchscope>
+    <searchscope>BOBST</searchscope>
+    <searchscope>IFA</searchscope>
+    <searchscope>IFAC</searchscope>
+    <searchscope>ISAW</searchscope>
+    <searchscope>COUR</searchscope>
+    <searchscope>REI</searchscope>
+    <scope>BWEB</scope>
+    <scope>BWEB Internet Resources</scope>
+    <scope>CU</scope>
+    <scope>CU Restricted Internet Resources</scope>
+    <scope>nyu_aleph</scope>
+    <scope>CWEB</scope>
+    <scope>BOBST</scope>
+    <scope>IFA</scope>
+    <scope>IFAC</scope>
+    <scope>ISAW</scope>
+    <scope>COUR</scope>
+    <scope>REI</scope>
+    <lsr01>QA76.9.N38 H37 2015eb</lsr01>
+    <lsr01>QA76 .9 .N38 H37 2015eb</lsr01>
+    <lsr02>Springer,</lsr02>
+    <lsr10>9783319142067</lsr10>
+    <lsr10>3319142062</lsr10>
+    <lsr10>3319142054</lsr10>
+    <lsr10>9783319142050</lsr10>
+  </search>
+  <sort>
+    <title>Harmonization and development of resources and tools for Italian natural language processing within the PARLI Project /</title>
+    <creationdate>2015</creationdate>
+    <author>Basili, Roberto, editor.</author>
+    <lso01>2015</lso01>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <creationdate>2015</creationdate>
+    <topic>Natural language processing (Computer science)</topic>
+    <topic>Italian language–Data processing</topic>
+    <topic>Computational intelligence</topic>
+    <topic>Artificial Intelligence (incl. Robotics)</topic>
+    <collection>CU</collection>
+    <toplevel>available</toplevel>
+    <toplevel>online_resources</toplevel>
+    <prefilter>archives</prefilter>
+    <rsrctype>archives</rsrctype>
+    <creatorcontrib>Basili, R</creatorcontrib>
+    <creatorcontrib>Bosco, C</creatorcontrib>
+    <creatorcontrib>Delmonte, R</creatorcontrib>
+    <creatorcontrib>Moschitti, A</creatorcontrib>
+    <creatorcontrib>Simi, M</creatorcontrib>
+    <genre>Electronic books</genre>
+    <library>CWEB</library>
+    <library>BOBST</library>
+    <library>IFA</library>
+    <library>IFAC</library>
+    <library>ISAW</library>
+    <library>COUR</library>
+    <library>REI</library>
+    <lfc01>Internet Resources</lfc01>
+    <lfc01>Restricted Internet Resources</lfc01>
+    <newrecords>20160927_284</newrecords>
+    <classificationlcc>Q - Science.–Mathematics–Instruments and machines–Calculating machines–Electronic computers. Computer science–Computer software</classificationlcc>
+    <frbrgroupid>432239032</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c2>9783319142067;3319142062;9783319142050;3319142054;9783319142050</c2>
+    <c3>harmonizationanddeverliproject</c3>
+    <c4>2015</c4>
+    <f3>9783319142067;3319142062;3319142054;9783319142050</f3>
+    <f4>9783319142050</f4>
+    <f5>harmonizationanddevelopmentofresourcesandtoolsforitaliannaturallanguageprocessingwithintheparliproject</f5>
+    <f6>2015</f6>
+    <f7>harmonization and development of resources and tools for italian natural language processing within the parli project</f7>
+    <f8>sz</f8>
+    <f9>1 online resource (xiv, 171 pages) :</f9>
+    <f10>springer</f10>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kbasili roberto$$AA</k1>
+    <k1>$$Kbosco cristina$$AA</k1>
+    <k1>$$Kdelmonte rodolfo$$AA</k1>
+    <k1>$$Kmoschitti alessandro$$AA</k1>
+    <k1>$$Ksimi maria$$AA</k1>
+    <k3>$$Karchivesharmonization and development of resources and tools for italian natural language processing within the parli project$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYU</institution>
+    <institution>CU</institution>
+    <institution>NYUAD</institution>
+    <institution>NYUSH</institution>
+    <delcategory>Online Resource</delcategory>
+  </delivery>
+  <enrichment>
+    <classificationlcc>QA76.9.N38</classificationlcc>
+  </enrichment>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <aulast>Basili</aulast>
+    <aufirst>Roberto,</aufirst>
+    <addau>Basili, Roberto, editor</addau>
+    <addau>Bosco, Cristina, editor</addau>
+    <addau>Delmonte, Rodolfo, editor</addau>
+    <addau>Moschitti, Alessandro, editor</addau>
+    <addau>Simi, Maria, editor</addau>
+    <btitle>Harmonization and development of resources and tools for Italian natural language processing within the PARLI Project</btitle>
+    <seriestitle>Studies in computational intelligence ; volume 589</seriestitle>
+    <date>2015</date>
+    <risdate>2015.</risdate>
+    <eissn>9783319142050</eissn>
+    <isbn>9783319142067</isbn>
+    <isbn>3319142062</isbn>
+    <isbn>3319142054</isbn>
+    <isbn>9783319142050</isbn>
+    <format>archives</format>
+    <genre>archives</genre>
+    <ristype>GEN</ristype>
+    <abstract>The papers collected in this volume are selected as a sample of the progress in Natural Language Processing (NLP) performed within the Italian NLP community and especially attested by the PARLI project. PARLI (Portale per l?Accesso alle Risorse in Lingua Italiana) is a project partially funded by the Ministero Italiano per l?Università e la Ricerca (PRIN 2008) from 2008 to 2012 for monitoring and fostering the harmonic growth and coordination of the activities of Italian NLP. It was proposed by various teams of researchers working in Italian universities and research institutions. According to the spirit of the PARLI project, most of the resources and tools created within the project and here described are freely distributed and they did not terminate their life at the end of the project itself, hoping they could be a key factor in future development of computational linguistics.</abstract>
+    <oclcid>902626732</oclcid>
+    <lad01>BWEBCU</lad01>
+    <lad01>Online Resource</lad01>
+    <lad03>sprnglnk_10.1007/978-3-319-14206-7</lad03>
+  </addata>
+</record>

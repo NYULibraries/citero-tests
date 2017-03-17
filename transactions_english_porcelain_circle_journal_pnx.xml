@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>000708449</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph000708449</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01000708449</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>journal</type>
+    <title>Transactions (English Porcelain Circle)</title>
+    <title>Transactions</title>
+    <contributor>English Porcelain Circle.</contributor>
+    <publisher>London : English Porcelain Circle</publisher>
+    <creationdate>1928-1932</creationdate>
+    <format>v. : ill. ; 25 cm.</format>
+    <subject>Pottery, English -- Periodicals; Porcelain, English -- Periodicals</subject>
+    <language>eng</language>
+    <relation>$$Clater_title ; $$VTransactions (English Ceramic Circle)</relation>
+    <source>nyu_aleph</source>
+    <availlibrary>$$INYHS$$LNYHS$$1Main Collection$$2(NK3700 .E61 Non-circulating )$$Savailable$$31$$40$$5Y$$60$$XNYU50$$YNYHS$$ZMAIN</availlibrary>
+    <unititle>Transactions (English Porcelain Circle)</unititle>
+    <lds02>nyu_aleph000708449</lds02>
+    <lds01>NYHS</lds01>
+    <availinstitution>$$INYHS$$Savailable</availinstitution>
+    <availpnx>available</availpnx>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <lln02>$$Taeon_nyhs$$DClick here to request N-YHS materials.$$1Main Collection$$2NK3700 .E61 Non-circulating</lln02>
+  </links>
+  <search>
+    <creatorcontrib>English Porcelain Circle.</creatorcontrib>
+    <title>Transactions (English Porcelain Circle)</title>
+    <subject>Pottery, English  Periodicals</subject>
+    <subject>Porcelain, English  Periodicals</subject>
+    <subject>English pottery</subject>
+    <general>English Porcelain Circle,</general>
+    <general>N-YHS Copy: Mr. James A. Lewis.</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph000708449</recordid>
+    <rsrctype>journal</rsrctype>
+    <creationdate>1928</creationdate>
+    <creationdate>1932</creationdate>
+    <addtitle>Transactions (English Ceramic Circle)</addtitle>
+    <searchscope>NYHS</searchscope>
+    <searchscope>NYHS Main Collection</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYHSM</searchscope>
+    <scope>NYHS</scope>
+    <scope>NYHS Main Collection</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYHSM</scope>
+    <alttitle>Transactions (English Porcelain Circle)</alttitle>
+    <lsr01>NK3700 .E61</lsr01>
+    <lsr01>NK3700.E61</lsr01>
+    <lsr02>English Porcelain Circle,</lsr02>
+  </search>
+  <sort>
+    <title>Transactions (English Porcelain Circle)</title>
+    <creationdate>1928</creationdate>
+    <author>English Porcelain Circle.</author>
+    <lso01>1928</lso01>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <creationdate>1928</creationdate>
+    <topic>Pottery, English–Periodicals</topic>
+    <topic>Porcelain, English–Periodicals</topic>
+    <collection>NYHS</collection>
+    <toplevel>available</toplevel>
+    <prefilter>journals</prefilter>
+    <rsrctype>journals</rsrctype>
+    <creatorcontrib>English Porcelain Circle</creatorcontrib>
+    <genre>Periodicals</genre>
+    <library>NYHSM</library>
+    <lfc01>Main Collection</lfc01>
+    <newrecords>20111230_487</newrecords>
+    <frbrgroupid>430855371</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>99</t>
+    <c3>transactions</c3>
+    <c4>london</c4>
+    <f6>1928</f6>
+    <f7>transactions</f7>
+    <f8>transactions</f8>
+    <f9>enk</f9>
+    <f10>london</f10>
+    <f11>transactions english porcelain circle</f11>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kenglish porcelain circle$$AA</k1>
+    <k2>$$Kjournaltransactions english porcelain circle$$ATO</k2>
+    <k3>$$Ktransactions$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYHS</institution>
+    <delcategory>Physical Item</delcategory>
+  </delivery>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <addau>English Porcelain Circle</addau>
+    <jtitle>Transactions (English Porcelain Circle)</jtitle>
+    <jtitle>Transactions</jtitle>
+    <date>1928</date>
+    <risdate>1928-1932.</risdate>
+    <format>journal</format>
+    <genre>journal</genre>
+    <ristype>JOUR</ristype>
+    <cop>London</cop>
+    <pub>English Porcelain Circle</pub>
+    <lad01>NYHS</lad01>
+    <lad01>Physical Item</lad01>
+  </addata>
+</record>

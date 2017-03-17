@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>hdl-handle-net-2451-33888</sourcerecordid>
+    <sourceid>ichabod</sourceid>
+    <recordid>ichabodhdl-handle-net-2451-33888</recordid>
+    <sourceformat>DC</sourceformat>
+    <sourcesystem>Other</sourcesystem>
+  </control>
+  <display>
+    <type>geospatial_data</type>
+    <title>Grade "A" Restaurants in Manhattan</title>
+    <creator>Michelle Thompson</creator>
+    <publisher>Unknown</publisher>
+    <format>Geospatial Data</format>
+    <subject>Restaurants; Inspection; Health and hygiene; Urban health</subject>
+    <description>This point shapefile displays restaurants in Manhattan that received a grade of "A" from the Department of Health and Mental Hygiene Restaurant Inspection. The points were extracted from the DOHMH New York City Restaurant Inspection Results dataset as current on 3/6/2015. Note that the locations were established with the LION geocoder in ArcMap, and some locations, espcially those in parks, piers, and side streets, on the dataset are not reflected in this file.</description>
+    <language>eng</language>
+    <relation>$$Ccollection$$VSpatial Data Repository</relation>
+    <relation>$$CData Provider: $$VNYU</relation>
+    <source>ichabod</source>
+    <rights>Public</rights>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <linktorsrc>$$Uhttp://hdl.handle.net/2451/33888$$DAvailable Online</linktorsrc>
+    <thumbnail>$$Tamazon_thumb</thumbnail>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+  </links>
+  <search>
+    <creatorcontrib>Michelle Thompson</creatorcontrib>
+    <title>Grade "A" Restaurants in Manhattan</title>
+    <description>This point shapefile displays restaurants in Manhattan that received a grade of "A" from the Department of Health and Mental Hygiene Restaurant Inspection. The points were extracted from the DOHMH New York City Restaurant Inspection Results dataset as current on 3/6/2015. Note that the locations were established with the LION geocoder in ArcMap, and some locations, espcially those in parks, piers, and side streets, on the dataset are not reflected in this file.</description>
+    <subject>Restaurants</subject>
+    <subject>Inspection</subject>
+    <subject>Health and hygiene</subject>
+    <subject>Urban health</subject>
+    <general>English</general>
+    <sourceid>ichabod</sourceid>
+    <recordid>ichabodhdl-handle-net-2451-33888</recordid>
+    <rsrctype>geospatial_data</rsrctype>
+    <addtitle>Spatial Data Repository</addtitle>
+    <searchscope>ichabod</searchscope>
+    <searchscope>NYU</searchscope>
+    <searchscope>NYUAD</searchscope>
+    <searchscope>NYUSH</searchscope>
+    <scope>ichabod</scope>
+    <scope>NYU</scope>
+    <scope>NYUAD</scope>
+    <scope>NYUSH</scope>
+    <lsr02>Unknown</lsr02>
+  </search>
+  <sort>
+    <title>Grade "A" Restaurants in Manhattan</title>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <topic>Restaurants</topic>
+    <topic>Inspection</topic>
+    <topic>Health and hygiene</topic>
+    <topic>Urban health</topic>
+    <toplevel>online_resources</toplevel>
+    <rsrctype>geospatial_data</rsrctype>
+    <creatorcontrib>Michelle Thompson</creatorcontrib>
+    <format>Geospatial Data</format>
+    <frbrgroupid>370657598</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c3>Grade "A" Restaurants in Manhattan</c3>
+    <f7>Grade "A" Restaurants in Manhattan</f7>
+    <f8>Grade "A" Restaurants in Manhattan</f8>
+    <f11>Grade "A" Restaurants in Manhattan</f11>
+  </dedup>
+  <delivery>
+    <delcategory>Online Resource</delcategory>
+    <institution>NYU</institution>
+    <institution>NYUAD</institution>
+    <institution>NYUSH</institution>
+  </delivery>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <au>Michelle Thompson</au>
+    <btitle>Grade "A" Restaurants in Manhattan</btitle>
+    <format>book</format>
+    <genre>unknown</genre>
+    <ristype>GEN</ristype>
+    <pub>Unknown</pub>
+  </addata>
+  <browse>
+    <author>$$DMichelle Thompson$$EMichelle Thompson</author>
+    <title>$$DGrade "A" Restaurants in Manhattan$$EGrade "A" Restaurants in Manhattan</title>
+    <subject>$$DRestaurants$$ERestaurants</subject>
+    <subject>$$DInspection$$EInspection</subject>
+    <subject>$$DHealth and hygiene$$EHealth and hygiene</subject>
+    <subject>$$DUrban health$$EUrban health</subject>
+    <institution>NYU</institution>
+    <institution>NYUAD</institution>
+    <institution>NYUSH</institution>
+  </browse>
+</record>

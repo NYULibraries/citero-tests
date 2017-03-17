@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>002669901</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph002669901</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01002669901</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>book</type>
+    <title>English</title>
+    <contributor>Hilary Minns; Mike Torbe</contributor>
+    <publisher>London : Ward Lock Educational</publisher>
+    <creationdate>1981</creationdate>
+    <format>91 p. ; 22 cm.</format>
+    <identifier>$$Cisbn$$V0706241053; $$Cisbn$$V9780706241051</identifier>
+    <subject>English language -- Study and teaching</subject>
+    <language>eng</language>
+    <relation>$$Cseries $$VLanguage, teaching &amp; learning ; 3.</relation>
+    <source>nyu_aleph</source>
+    <availlibrary>$$INYU$$LBOBST$$1Main Collection$$2(PE1111 .E8 )$$Sunavailable$$31$$41$$5N$$60$$XNYU50$$YBOBST$$ZMAIN</availlibrary>
+    <lds02>nyu_aleph002669901</lds02>
+    <lds01>NYU</lds01>
+    <availinstitution>$$INYU$$Sunavailable</availinstitution>
+    <availpnx>unavailable</availpnx>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <thumbnail>$$Tamazon_thumb</thumbnail>
+    <linktotoc>$$Tamazon_toc$$DCheck for Amazon Search Inside</linktotoc>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tamazon_uc$$DCheck Amazon</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DCheck other libraries (WorldCat®)</linktouc>
+    <linktoexcerpt>$$Tsyndetics_excerpt$$DExcerpt from item</linktoexcerpt>
+  </links>
+  <search>
+    <creatorcontrib>Hilary Minns... [et al] ; edited and introduced by Mike Torbe.</creatorcontrib>
+    <creatorcontrib>Hilary.  Minns</creatorcontrib>
+    <creatorcontrib>Mike.  Torbe</creatorcontrib>
+    <creatorcontrib>Minns, H</creatorcontrib>
+    <creatorcontrib>Torbe, M</creatorcontrib>
+    <title>English /</title>
+    <subject>English language  Study and teaching</subject>
+    <general>Ward Lock Educational,</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph002669901</recordid>
+    <isbn>0706241053</isbn>
+    <isbn>9780706241051</isbn>
+    <rsrctype>book</rsrctype>
+    <creationdate>1981</creationdate>
+    <addtitle>Language teaching &amp; learning ; 3</addtitle>
+    <addtitle>Language, teaching &amp; learning ; 3.</addtitle>
+    <searchscope>BOBST</searchscope>
+    <searchscope>BOBST Main Collection</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYU</searchscope>
+    <scope>BOBST</scope>
+    <scope>BOBST Main Collection</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYU</scope>
+    <lsr01>PE1111 .E8</lsr01>
+    <lsr01>PE1111.E8</lsr01>
+    <lsr02>Ward Lock Educational,</lsr02>
+    <lsr10>0706241053</lsr10>
+    <lsr10>9780706241051</lsr10>
+  </search>
+  <sort>
+    <title>English /</title>
+    <creationdate>1981</creationdate>
+    <author>Minns, Hilary.</author>
+    <lso01>1981</lso01>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <creationdate>1981</creationdate>
+    <topic>English language–Study and teaching</topic>
+    <collection>BOBST</collection>
+    <prefilter>books</prefilter>
+    <rsrctype>books</rsrctype>
+    <creatorcontrib>Minns, H</creatorcontrib>
+    <creatorcontrib>Torbe, M</creatorcontrib>
+    <library>BOBST</library>
+    <lfc01>Main Collection</lfc01>
+    <newrecords>20111231_154</newrecords>
+    <frbrgroupid>432382182</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c2>0706241053;9780706241051</c2>
+    <c3>english</c3>
+    <c4>1981</c4>
+    <f3>0706241053;9780706241051</f3>
+    <f5>english</f5>
+    <f6>1981</f6>
+    <f7>english</f7>
+    <f8>enk</f8>
+    <f9>91 p. ;</f9>
+    <f10>ward lock educational</f10>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kminns hilary$$AA</k1>
+    <k1>$$Ktorbe mike$$AA</k1>
+    <k3>$$Kbookenglish$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYU</institution>
+    <delcategory>Physical Item</delcategory>
+  </delivery>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <aulast>Minns</aulast>
+    <aufirst>Hilary.</aufirst>
+    <addau>Minns, Hilary</addau>
+    <addau>Torbe, Mike</addau>
+    <btitle>English</btitle>
+    <seriestitle>Language, teaching &amp; learning ; 3</seriestitle>
+    <date>1981</date>
+    <risdate>1981.</risdate>
+    <isbn>0706241053</isbn>
+    <isbn>9780706241051</isbn>
+    <format>book</format>
+    <genre>book</genre>
+    <ristype>BOOK</ristype>
+    <notes>Bibliography: p. 90.</notes>
+    <cop>London</cop>
+    <pub>Ward Lock Educational</pub>
+    <lad01>BOBST</lad01>
+    <lad01>Physical Item</lad01>
+  </addata>
+</record>

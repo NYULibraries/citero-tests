@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>002315172</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph002315172</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01002315172</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>website</type>
+    <title>History of science and technology (HST)</title>
+    <contributor>Society for the History of Technology.; History of Science Society.</contributor>
+    <publisher>Palo Alto, Calif. : Research Libraries Information Network</publisher>
+    <creationdate>1976</creationdate>
+    <subject>Science -- History; Technology -- History; Electronic indexes; History History History History History History History History -- Africa -- East Asia -- Europe -- Latin America and Caribbean -- Middle East -- North America -- Slavic</subject>
+    <description>$$Csummary$$VHST describes journal articles, conference proceedings, books, book reviews, and dissertations on the History of science and technology... Citations reflect the contents of over 600 journals, plus partial contents of several hundred more. Coverage includes all languages in which these materials are published.</description>
+    <language>eng</language>
+    <source>nyu_aleph</source>
+    <rights>Access restricted to New York University and New School University faculty, students and staff, and to users with a valid NYU or New School IP address (*.nyu.edu or *.newschool.edu).</rights>
+    <unititle>History of science and technology (Online)</unititle>
+    <lds02>nyu_aleph002315172</lds02>
+    <lds01>GEN</lds01>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <linktorsrc>$$Uhttp://autoweb.rlg.org/cgi-bin/webscr/nyug/ewebyes9d.scr$$DOnline Version</linktorsrc>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tworldcat_oclc$$DCheck other libraries (WorldCat®)</linktouc>
+  </links>
+  <search>
+    <creatorcontrib>Society for the History of Technology.</creatorcontrib>
+    <creatorcontrib>History of Science Society.</creatorcontrib>
+    <creatorcontrib>SHOT</creatorcontrib>
+    <title>History of science and technology (HST)</title>
+    <description>HST describes journal articles, conference proceedings, books, book reviews, and dissertations on the History of science and technology... Citations reflect the contents of over 600 journals, plus partial contents of several hundred more. Coverage includes all languages in which these materials are published.</description>
+    <subject>Science  History</subject>
+    <subject>Technology  History</subject>
+    <subject>Electronic indexes</subject>
+    <subject>History History Africa History East Asia History Europe History Latin America and Caribbean History Middle East History North America History Slavic</subject>
+    <subject>Science, Applied</subject>
+    <subject>Applied science</subject>
+    <subject>Arts, Useful</subject>
+    <subject>Useful arts</subject>
+    <subject>Sciences</subject>
+    <subject>Natural science</subject>
+    <subject>Science of science</subject>
+    <general>Research Libraries Information Network],</general>
+    <general>Suppliers: History of Science Society, Society for the History of Technology.</general>
+    <general>Description based on hypertext version as viewed over the World Wide Web; title from title screen.</general>
+    <general>HST file includes references from Isis Current Bibliography of the History of Science, 1976-present, and Current Bibliography in the History of Technology (Technology and Culture), 1987-present.</general>
+    <general>[electronic resource].</general>
+    <general>36889473</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph002315172</recordid>
+    <rsrctype>website</rsrctype>
+    <creationdate>1976</creationdate>
+    <creationdate>9999</creationdate>
+    <addtitle>Isis</addtitle>
+    <addtitle>Technology and culture. Current bibliography in the history of technology</addtitle>
+    <searchscope>WEB</searchscope>
+    <searchscope>WEB Internet Resources</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>WEBGENI</searchscope>
+    <scope>WEB</scope>
+    <scope>WEB Internet Resources</scope>
+    <scope>nyu_aleph</scope>
+    <scope>WEBGENI</scope>
+    <alttitle>History of science and technology (Online)</alttitle>
+    <alttitle>HST</alttitle>
+    <lsr01>Q124.6 .H5</lsr01>
+    <lsr01>Q124.6.H5</lsr01>
+    <lsr02>Research Libraries Information Network],</lsr02>
+  </search>
+  <sort>
+    <title>History of science and technology (HST)</title>
+    <creationdate>1976</creationdate>
+    <author>Society for the History of Technology.</author>
+    <lso01>1976</lso01>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <creationdate>1976</creationdate>
+    <topic>Science–History</topic>
+    <topic>Technology–History</topic>
+    <collection>WEB</collection>
+    <toplevel>available</toplevel>
+    <toplevel>online_resources</toplevel>
+    <prefilter>websites</prefilter>
+    <rsrctype>websites</rsrctype>
+    <creatorcontrib>Society for the History of Technology</creatorcontrib>
+    <creatorcontrib>History of Science Society</creatorcontrib>
+    <genre>Electronic indexes</genre>
+    <lfc01>Internet Resources</lfc01>
+    <newrecords>20111231_18</newrecords>
+    <frbrgroupid>429347284</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c3>historyofscienceandthnologyhst</c3>
+    <c4>1976</c4>
+    <f5>historyofscienceandthnologyhst</f5>
+    <f6>1976</f6>
+    <f7>history of science and technology hst</f7>
+    <f8>cau</f8>
+    <f10>research libraries information network</f10>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Ksociety for the history of technology$$AA</k1>
+    <k1>$$Khistory of science society$$AA</k1>
+    <k2>$$Kwebsitehistory of science and technology online$$ATO</k2>
+    <k3>$$Kwebsitehistory of science and technology hst$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>GEN</institution>
+    <delcategory>Online Resource</delcategory>
+  </delivery>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <addau>Society for the History of Technology</addau>
+    <addau>History of Science Society</addau>
+    <btitle>History of science and technology (HST)</btitle>
+    <addtitle>HST</addtitle>
+    <date>1976</date>
+    <risdate>1976</risdate>
+    <format>website</format>
+    <genre>website</genre>
+    <ristype>GEN</ristype>
+    <abstract>HST describes journal articles, conference proceedings, books, book reviews, and dissertations on the History of science and technology... Citations reflect the contents of over 600 journals, plus partial contents of several hundred more. Coverage includes all languages in which these materials are published.</abstract>
+    <cop>Palo Alto, Calif.</cop>
+    <pub>Research Libraries Information Network]</pub>
+    <oclcid>36889473</oclcid>
+    <lad01>WEB</lad01>
+    <lad01>Online Resource</lad01>
+  </addata>
+</record>
