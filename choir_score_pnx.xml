@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>004118351</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph004118351</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01004118351</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>score</type>
+    <title>A &lt;span class="searchword">babe&lt;/span> is born : for triple choir &amp; brass septet</title>
+    <creator>Stephen  Paulus  composer.</creator>
+    <edition>Full score.</edition>
+    <publisher>St. Paul, MN : Paulus Publications ; Verona, NJ : Exclusive distributor for sales &amp; rental Subito Music</publisher>
+    <creationdate>2014</creationdate>
+    <format>1 score (25 pages) ; 31 cm</format>
+    <identifier>$$Cmuspub$$VSP 441 Paulus Publications; $$Cmuspub$$V80401540 Subito Music</identifier>
+    <subject>Choruses, Sacred (Mixed voices) with instrumental ensemble -- Scores; Christmas music; Choruses, Sacred (Mixed voices) with instrumental ensemble -- Scores; Christmas music</subject>
+    <language>mul;eng;lat</language>
+    <source>nyu_aleph</source>
+    <availlibrary>$$INYU$$LBOBST$$1Main Collection$$2(Score 05973 0195 )$$Sunavailable$$31$$41$$5N$$60$$XNYU50$$YBOBST$$ZMAIN</availlibrary>
+    <lds02>nyu_aleph004118351</lds02>
+    <lds01>NYU</lds01>
+    <availinstitution>$$INYU$$Sunavailable</availinstitution>
+    <availpnx>unavailable</availpnx>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tworldcat_oclc$$DCheck other libraries (WorldCat®)</linktouc>
+  </links>
+  <search>
+    <creatorcontrib>Stephen,  Paulus  composer.</creatorcontrib>
+    <creatorcontrib>Paulus, Stephen, composer.</creatorcontrib>
+    <creatorcontrib>Paulus, S</creatorcontrib>
+    <creatorcontrib>Stephen Paulus.</creatorcontrib>
+    <title>A &lt;span class="searchword">babe&lt;/span> is born : for triple choir &amp; brass septet /</title>
+    <subject>Choruses, Sacred (Mixed voices) with instrumental ensemble  Scores</subject>
+    <subject>Christmas music</subject>
+    <subject>Christmas Songs and music</subject>
+    <subject>Christmas songs</subject>
+    <subject>Choruses, Sacred (Mixed voices, 5 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 4 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 3 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 8 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 7 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 6 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 14 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 13 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 16 pts.) with instr. ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices) with jazz ensemble</subject>
+    <subject>Choruses, Sacred (Mixed voices, 4 pts.) with trumpets (2) and organ</subject>
+    <general>Paulus Publications ; Exclusive distributor for sales &amp; rental Subito Music,</general>
+    <general>For 3 mixed choruses (SATB), trumpets (3), trombones (3), tuba.</general>
+    <general>Duration: approximately 6 min.</general>
+    <general>Publication date from vendor record.</general>
+    <general>SP 441</general>
+    <general>80401540</general>
+    <general>903891161</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph004118351</recordid>
+    <rsrctype>score</rsrctype>
+    <creationdate>2014</creationdate>
+    <creationdate>2004</creationdate>
+    <searchscope>BOBST</searchscope>
+    <searchscope>BOBST Main Collection</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYU</searchscope>
+    <scope>BOBST</scope>
+    <scope>BOBST Main Collection</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYU</scope>
+    <lsr01>Score 05973 0195</lsr01>
+    <lsr02>Paulus Publications ; Exclusive distributor for sales &amp; rental Subito Music,</lsr02>
+  </search>
+  <sort>
+    <title>babe is born : for triple choir &amp; brass septet /</title>
+    <creationdate>2014</creationdate>
+    <author>Paulus, Stephen, composer.</author>
+    <lso01>2014</lso01>
+  </sort>
+  <facets>
+    <language>mul</language>
+    <language>eng</language>
+    <language>lat</language>
+    <creationdate>2014</creationdate>
+    <topic>Choruses, Sacred (Mixed voices) with instrumental ensemble–Scores</topic>
+    <topic>Christmas music</topic>
+    <collection>BOBST</collection>
+    <prefilter>scores</prefilter>
+    <rsrctype>scores</rsrctype>
+    <creatorcontrib>Paulus, S</creatorcontrib>
+    <genre>Scores</genre>
+    <library>BOBST</library>
+    <lfc01>Main Collection</lfc01>
+    <newrecords>20150315_986</newrecords>
+    <classificationlcc>M - Music.</classificationlcc>
+    <frbrgroupid>430448841</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c3>babeisbornfortriplecrassseptet</c3>
+    <c4>2014</c4>
+    <f5>babeisbornfortriplecrassseptet</f5>
+    <f6>2014</f6>
+    <f7>babe is born for triple choir brass septet</f7>
+    <f8>nju</f8>
+    <f9>1 score (25 pages) ;</f9>
+    <f10>paulus publications</f10>
+    <f11>paulus stephen</f11>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kpaulus stephen$$AA</k1>
+    <k3>$$Kscorebabe is born for triple choir &amp; brass septet$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYU</institution>
+    <delcategory>Physical Item</delcategory>
+  </delivery>
+  <enrichment>
+    <classificationlcc>M2021</classificationlcc>
+  </enrichment>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <aulast>Paulus</aulast>
+    <aufirst>Stephen,</aufirst>
+    <au>Paulus, Stephen, composer</au>
+    <btitle>A babe is born : for triple choir &amp; brass septet</btitle>
+    <date>2014</date>
+    <date>2004</date>
+    <risdate>[2014].</risdate>
+    <format>score</format>
+    <genre>score</genre>
+    <ristype>GEN</ristype>
+    <oclcid>903891161</oclcid>
+    <lad01>BOBST</lad01>
+    <lad01>Physical Item</lad01>
+    <lad03>har145026073</lad03>
+  </addata>
+</record>

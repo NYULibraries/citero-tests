@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>001206179</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph001206179</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01001206179</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>journal</type>
+    <title>&lt;span class="searchword">Nature&lt;/span>.</title>
+    <contributor>Norman Lockyer Sir, 1836-1920.; Sidney Lapidus 1937- donor.</contributor>
+    <publisher>London, etc. Macmillan Journals, etc.</publisher>
+    <creationdate>1869</creationdate>
+    <format>v. : ill. ; 26-28 cm.</format>
+    <identifier>$$Cissn$$V0028-0836</identifier>
+    <subject>Science -- Periodicals; Electronic journals; Science and technology Biology Chemistry Computer science Consumer health Environmental sciences Food studies and nutrition Health policy and administration Health sciences Mathematics and statistics Physics and astronomy Psychology, psychiatry and mental health Science and technology Technology and engineering</subject>
+    <description>$$Csummary$$VContains tables of contents of the previous four weeks' issues of the print publication, together with summaries of all original research articles and News and Views articles.</description>
+    <language>eng</language>
+    <relation>$$Cindexes$$VVols. 229-234, 1971; Vols. 235-240, 1972.</relation>
+    <source>nyu_aleph</source>
+    <availlibrary>$$INYUSH$$LNSHNG$$1Main Collection$$2(Periodicals )$$Scheck_holdings$$5Y$$XNYU52$$YNSHNG$$ZMAIN</availlibrary>
+    <availlibrary>$$INYUAD$$LNABUD$$1Leisure Collection$$2(Magazines &amp; Journals )$$Savailable$$32$$40$$5Y$$60$$XNYU51$$YNABUD$$ZLEIS</availlibrary>
+    <availlibrary>$$INYUAD$$LNABUD$$1Main Collection$$2(Magazines &amp; Journals )$$Scheck_holdings$$5Y$$XNYU51$$YNABUD$$ZMAIN</availlibrary>
+    <availlibrary>$$INYU$$LBOBST$$1Main Collection$$2(Q1 .N3 )$$Scheck_holdings$$5Y$$XNYU50$$YBOBST$$ZMAIN</availlibrary>
+    <availlibrary>$$INYHS$$LNYHS$$1Offsite$$2(Q1 .N3 Non-circulating )$$Sunavailable$$31$$41$$5Y$$60$$XNYU50$$YNYHS$$ZOFFSI</availlibrary>
+    <availlibrary>$$INYU$$LBWEB$$1Internet Resources$$2(Q1 .N3 Electronic access )$$Scheck_holdings$$XNYU50$$YBWEB$$ZBNYUI</availlibrary>
+    <lds02>nyu_aleph001206179</lds02>
+    <lds01>NYUSH</lds01>
+    <lds01>NYUAD</lds01>
+    <lds01>NYU</lds01>
+    <lds01>NYHS</lds01>
+    <lds01>GEN</lds01>
+    <availinstitution>$$INYU$$Scheck_holdings</availinstitution>
+    <availinstitution>$$INYHS$$Sunavailable</availinstitution>
+    <availinstitution>$$INYUAD$$Savailable</availinstitution>
+    <availinstitution>$$INYUSH$$Scheck_holdings</availinstitution>
+    <availpnx>available</availpnx>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://www.nature.com/nature/$$DOnline access via Nature:$$INYU</linktorsrc>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://www.nature.com/nature/$$DOnline access via Nature:$$INYUAD</linktorsrc>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://www.nature.com/nature/$$DOnline access via Nature:$$INYUSH</linktorsrc>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://gateway.ovid.com/ovidweb.cgi?T=JS&amp;PAGE=toc&amp;D=ovft&amp;MODE=ovid&amp;NEWS=N&amp;AN=00006056-000000000-00000$$DOnline access via Ovid:$$INYU</linktorsrc>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://gateway.ovid.com/ovidweb.cgi?T=JS&amp;PAGE=toc&amp;D=ovft&amp;MODE=ovid&amp;NEWS=N&amp;AN=00006056-000000000-00000$$DOnline access via Ovid:$$INYUAD</linktorsrc>
+    <linktorsrc>$$Uhttps://ezproxy.library.nyu.edu/login?url=http://gateway.ovid.com/ovidweb.cgi?T=JS&amp;PAGE=toc&amp;D=ovft&amp;MODE=ovid&amp;NEWS=N&amp;AN=00006056-000000000-00000$$DOnline access via Ovid:$$INYUSH</linktorsrc>
+    <linktorsrc>$$Uhttp://www.nature.com/$$DOnline Version</linktorsrc>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tworldcat_oclc$$DCheck other libraries (WorldCat®)</linktouc>
+    <lln02>$$Taeon_nyhs$$DClick here to request N-YHS materials.$$1Offsite$$2Q1 .N3 Non-circulating</lln02>
+  </links>
+  <search>
+    <creatorcontrib>Norman,  Lockyer  Sir, 1836-1920.</creatorcontrib>
+    <creatorcontrib>Sidney,  Lapidus  1937- donor.</creatorcontrib>
+    <creatorcontrib>Lockyer, N</creatorcontrib>
+    <creatorcontrib>Lapidus, S</creatorcontrib>
+    <creatorcontrib>Lockyer, J. N. (Joseph Norman), Sir, 1836-1920</creatorcontrib>
+    <creatorcontrib>Lockyer, Joseph Norman, Sir, 1836-1920</creatorcontrib>
+    <creatorcontrib>Lockyer, J. Norman (Joseph Norman), Sir, 1836-1920</creatorcontrib>
+    <title>&lt;span class="searchword">Nature&lt;/span>.</title>
+    <description>Contains tables of contents of the previous four weeks' issues of the print publication, together with summaries of all original research articles and News and Views articles.</description>
+    <subject>Science  Periodicals</subject>
+    <subject>Electronic journals</subject>
+    <subject>Science and technology Biology Chemistry Computer science Consumer health Environmental sciences Food studies and nutrition Health policy and administration Health sciences Mathematics and statistics Physics and astronomy Psychology, psychiatry and mental health Science and technology Technology and engineering</subject>
+    <subject>Sciences</subject>
+    <subject>Natural science</subject>
+    <subject>Science of science</subject>
+    <general>Macmillan Journals, etc.]</general>
+    <general>Founded and for many years edited by Sir J.N. Lockyer.</general>
+    <general>Description based on: journal home page; title from top of page.</general>
+    <general>N-YHS copy of vol. 143 (1939 Jan.-June) gift of Sidney Lapidus.</general>
+    <general>1586310</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph001206179</recordid>
+    <isbn>0028-0836</isbn>
+    <isbn>0302-2889</isbn>
+    <rsrctype>journal</rsrctype>
+    <creationdate>1869</creationdate>
+    <creationdate>9999</creationdate>
+    <addtitle>Nature (London, England : Online)</addtitle>
+    <addtitle>Nature: physical science</addtitle>
+    <addtitle>Nature: new biology</addtitle>
+    <addtitle>Nature structural biology</addtitle>
+    <addtitle>Nature cell biology</addtitle>
+    <searchscope>NSHNG</searchscope>
+    <searchscope>NSHNG Main Collection</searchscope>
+    <searchscope>NABUD</searchscope>
+    <searchscope>NABUD Leisure Collection</searchscope>
+    <searchscope>NABUD Main Collection</searchscope>
+    <searchscope>BOBST</searchscope>
+    <searchscope>BOBST Main Collection</searchscope>
+    <searchscope>NYHS</searchscope>
+    <searchscope>NYHS Offsite</searchscope>
+    <searchscope>BWEB</searchscope>
+    <searchscope>BWEB Internet Resources</searchscope>
+    <searchscope>WEB</searchscope>
+    <searchscope>WEB Internet Resources</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>WEBGENI</searchscope>
+    <searchscope>NYUSH</searchscope>
+    <searchscope>NYUAD</searchscope>
+    <searchscope>IFA</searchscope>
+    <searchscope>IFAC</searchscope>
+    <searchscope>ISAW</searchscope>
+    <searchscope>COUR</searchscope>
+    <searchscope>REI</searchscope>
+    <scope>NSHNG</scope>
+    <scope>NSHNG Main Collection</scope>
+    <scope>NABUD</scope>
+    <scope>NABUD Leisure Collection</scope>
+    <scope>NABUD Main Collection</scope>
+    <scope>BOBST</scope>
+    <scope>BOBST Main Collection</scope>
+    <scope>NYHS</scope>
+    <scope>NYHS Offsite</scope>
+    <scope>BWEB</scope>
+    <scope>BWEB Internet Resources</scope>
+    <scope>WEB</scope>
+    <scope>WEB Internet Resources</scope>
+    <scope>nyu_aleph</scope>
+    <scope>WEBGENI</scope>
+    <scope>NYUSH</scope>
+    <scope>NYUAD</scope>
+    <scope>IFA</scope>
+    <scope>IFAC</scope>
+    <scope>ISAW</scope>
+    <scope>COUR</scope>
+    <scope>REI</scope>
+    <alttitle>Nature (Lond.)</alttitle>
+    <lsr01>Q1 .N3</lsr01>
+    <lsr01>Q1.N3</lsr01>
+    <lsr01>Q1 .N32</lsr01>
+    <lsr01>Q1.N32</lsr01>
+    <lsr01>Periodicals</lsr01>
+    <lsr01>Q1 .N2</lsr01>
+    <lsr01>Q1.N2</lsr01>
+    <lsr02>Macmillan Journals, etc.]</lsr02>
+  </search>
+  <sort>
+    <title>Nature.</title>
+    <creationdate>1869</creationdate>
+    <author>Lockyer, Norman, Sir, 1836-1920.</author>
+    <lso01>1869</lso01>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <creationdate>1869</creationdate>
+    <topic>Science–Periodicals</topic>
+    <collection>BOBST</collection>
+    <collection>NYHS</collection>
+    <collection>WEB</collection>
+    <toplevel>available</toplevel>
+    <toplevel>online_resources</toplevel>
+    <prefilter>journals</prefilter>
+    <rsrctype>journals</rsrctype>
+    <creatorcontrib>Lockyer, N</creatorcontrib>
+    <creatorcontrib>Lapidus, S</creatorcontrib>
+    <genre>Periodicals</genre>
+    <genre>Electronic journals</genre>
+    <library>NYUSH</library>
+    <library>NYUAD</library>
+    <library>BOBST</library>
+    <library>IFA</library>
+    <library>IFAC</library>
+    <library>ISAW</library>
+    <library>COUR</library>
+    <library>REI</library>
+    <lfc01>Main Collection</lfc01>
+    <lfc01>Leisure Collection</lfc01>
+    <lfc01>Offsite</lfc01>
+    <lfc01>Internet Resources</lfc01>
+    <newrecords>20111230_461</newrecords>
+    <classificationlcc>Q - Science.–Science (General)–General</classificationlcc>
+    <frbrgroupid>430854227</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>99</t>
+    <c1>12037118</c1>
+    <c2>0028-0836;0302-2889</c2>
+    <c3>nature</c3>
+    <c4>london</c4>
+    <f1>12037118</f1>
+    <f3>00280836</f3>
+    <f5>0302-2889</f5>
+    <f6>1869</f6>
+    <f7>nature</f7>
+    <f8>nature</f8>
+    <f9>enk</f9>
+    <f10>london</f10>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Klockyer norman sir 1836 1920$$AA</k1>
+    <k1>$$Klapidus sidney 1937$$AA</k1>
+    <k3>$$Knature$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYUSH</institution>
+    <institution>NYUAD</institution>
+    <institution>NYU</institution>
+    <institution>NYHS</institution>
+    <institution>GEN</institution>
+    <delcategory>Online Resource</delcategory>
+  </delivery>
+  <enrichment>
+    <classificationlcc>Q1</classificationlcc>
+  </enrichment>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <aulast>Lockyer</aulast>
+    <aufirst>Norman,</aufirst>
+    <addau>Lockyer, Norman, Sir, 1836-1920</addau>
+    <addau>Lapidus, Sidney, 1937- donor</addau>
+    <jtitle>Nature.</jtitle>
+    <stitle>Nature</stitle>
+    <date>1869</date>
+    <risdate>1869</risdate>
+    <issn>0028-0836</issn>
+    <format>journal</format>
+    <genre>journal</genre>
+    <ristype>JOUR</ristype>
+    <abstract>Contains tables of contents of the previous four weeks' issues of the print publication, together with summaries of all original research articles and News and Views articles.</abstract>
+    <cop>London, etc</cop>
+    <pub>Macmillan Journals, etc.]</pub>
+    <oclcid>1586310</oclcid>
+    <lccn>12037118</lccn>
+    <lad01>BOBSTBWEBWEBNSHNGNYHSNABUD</lad01>
+    <lad01>Online Resource</lad01>
+  </addata>
+</record>

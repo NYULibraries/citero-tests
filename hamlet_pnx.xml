@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>$$V003200654$$Onyu_aleph003200654</sourcerecordid>
+    <sourcerecordid>$$V000026524$$OERESDSB000026524</sourcerecordid>
+    <sourcerecordid>$$V004208330$$Onyu_aleph004208330</sourcerecordid>
+    <sourcerecordid>$$Vocn175055661$$ONSDDAJSTORocn175055661</sourcerecordid>
+    <sourceid>$$Vnyu_aleph$$Onyu_aleph003200654</sourceid>
+    <sourceid>$$VERESDSB$$OERESDSB000026524</sourceid>
+    <sourceid>$$Vnyu_aleph$$Onyu_aleph004208330</sourceid>
+    <sourceid>$$VNSDDAJSTOR$$ONSDDAJSTORocn175055661</sourceid>
+    <recordid>dedupmrg266124821</recordid>
+    <originalsourceid>$$VNYU01$$Onyu_aleph003200654</originalsourceid>
+    <originalsourceid>$$VNYU03$$OERESDSB000026524</originalsourceid>
+    <originalsourceid>$$VNYU01$$Onyu_aleph004208330</originalsourceid>
+    <sourceformat>$$VMARC21$$Onyu_aleph003200654</sourceformat>
+    <sourceformat>$$VMARC21$$OERESDSB000026524</sourceformat>
+    <sourceformat>$$VMARC21$$Onyu_aleph004208330</sourceformat>
+    <sourceformat>$$VMARC Exchange$$ONSDDAJSTORocn175055661</sourceformat>
+    <sourcesystem>$$VAleph$$Onyu_aleph003200654</sourcesystem>
+    <sourcesystem>$$VAleph$$OERESDSB000026524</sourcesystem>
+    <sourcesystem>$$VAleph$$Onyu_aleph004208330</sourcesystem>
+    <sourcesystem>$$VOther$$ONSDDAJSTORocn175055661</sourcesystem>
+    <ilsapiid>$$VNYU01003200654$$Onyu_aleph003200654</ilsapiid>
+    <ilsapiid>$$VNYU03000026524$$OERESDSB000026524</ilsapiid>
+    <ilsapiid>$$VNYU01004208330$$Onyu_aleph004208330</ilsapiid>
+    <ilsapiid>$$Vocn175055661$$ONSDDAJSTORocn175055661</ilsapiid>
+  </control>
+  <display>
+    <type>book</type>
+    <title>&lt;span class="searchword">Hamlet&lt;/span></title>
+    <creator>William  Shakespeare  1564-1616.</creator>
+    <contributor>Burton Raffel; Harold Bloom</contributor>
+    <publisher>New Haven : Yale University Press</publisher>
+    <creationdate>c2003</creationdate>
+    <format>xxxi, 249 p.</format>
+    <subject>&lt;span class="searchword">Hamlet&lt;/span> (Legendary character) -- Drama; Murder victims' families -- Drama; Fathers -- Death -- Drama; Princes -- Drama; Revenge -- Drama; Denmark -- Drama; Electronic books</subject>
+    <language>eng</language>
+    <rights>Access is restricted to users affiliated with licensed institutions.</rights>
+    <source>$$Vnyu_aleph$$Onyu_aleph003200654</source>
+    <source>$$VERESDSB$$OERESDSB000026524</source>
+    <source>$$Vnyu_aleph$$Onyu_aleph004208330</source>
+    <source>$$VNSDDAJSTOR$$ONSDDAJSTORocn175055661</source>
+    <availlibrary>$$INYU$$LBWEB$$1Internet Resources$$2(PR2807.A2 R34 2003eb Electronic access )$$Scheck_holdings$$XNYU50$$YBWEB$$ZBNYUI$$Onyu_aleph003200654</availlibrary>
+    <availlibrary>$$ICU$$LCU$$1Restricted Internet Resources$$2(PR2807.A2 R34 2003eb Electronic access )$$Scheck_holdings$$XNYU50$$YCU$$ZNET$$Onyu_aleph003200654</availlibrary>
+    <availlibrary>$$INS$$LTWEB$$1Internet Resources$$2(PR2807.A2 R34 2003eb Electronic access )$$Scheck_holdings$$XNYU50$$YTWEB$$ZTNSI$$Onyu_aleph003200654</availlibrary>
+    <availlibrary>$$INYU$$LBWEB$$1Internet Resources$$2(PR2807.A2 R34 2003eb Electronic access )$$Scheck_holdings$$XNYU50$$YBWEB$$ZBNYUI$$OERESDSB000026524</availlibrary>
+    <availlibrary>$$INYU$$LNDIBN$$1Course Reserve$$2(PR2807.A2 R34 2003 )$$Savailable$$31$$40$$5N$$60$$XNYU50$$YNDIBN$$ZDRES$$Onyu_aleph004208330</availlibrary>
+    <availinstitution>$$ICU$$Scheck_holdings</availinstitution>
+    <availinstitution>$$INS$$Scheck_holdings</availinstitution>
+    <availinstitution>$$INYU$$Savailable</availinstitution>
+    <availpnx>available</availpnx>
+    <lds01>NYU</lds01>
+    <lds01>CU</lds01>
+    <lds01>NS</lds01>
+    <lds01>NYUAD</lds01>
+    <lds01>NYUSH</lds01>
+    <lds01>NYU</lds01>
+    <lds01>NYUAD</lds01>
+    <lds01>NYUSH</lds01>
+    <lds02>nyu_aleph003200654</lds02>
+    <lds02>ERESDSB000026524</lds02>
+    <lds02>nyu_aleph004208330</lds02>
+    <lds02>NSDDAJSTORocn175055661</lds02>
+    <snippetfield>description</snippetfield>
+    <snippetfield>description</snippetfield>
+    <snippetfield>toc</snippetfield>
+    <snippetfield>description</snippetfield>
+    <snippet><![CDATA["One of the most frequently read and performed of all stage works, Shakespeare's <span class="searchword">Hamlet</span> is unsurpassed in its complexity and richness. Now the most extensively annotated version of <span class="searchword">Hamlet</span> to date...  linguistics." "In his introduction, Raffel offers important background on the origins and previous versions of the <span class="searchword">Hamlet</span> story, along with an analysis of the characters <span class="searchword">Hamlet</span> and Ophelia. And in a... ""Contents ""; ""About This Book""; ""Introduction""; ""The Tragedy of <span class="searchword">Hamlet</span>, Prince of Denmark""; ""An Essay by Harold Bloom""; ""Further Reading""; ""Finding List""...  all the tools they need to comprehend the play and begin to explore its many possible interpretations. This version of <span class="searchword">Hamlet</span> is unparalleled for its thoroughness and adherence to sound historical]]></snippet>
+  </display>
+  <links>
+    <linktoholdings>$$V$$Taleph_holdings$$Onyu_aleph003200654</linktoholdings>
+    <linktoholdings>$$V$$Taleph_holdings$$Onyu_aleph004208330</linktoholdings>
+    <backlink>$$V$$Taleph_backlink$$DMore bibliographic information$$Onyu_aleph003200654</backlink>
+    <backlink>$$V$$Taleph_backlink$$DMore bibliographic information$$Onyu_aleph004208330</backlink>
+    <linktorsrc>$$V$$Uhttps://ezproxy.library.nyu.edu/login?url=http://site.ebrary.com/lib/nyulibrary/Doc?id=10190736$$DOnline Version$$INYU$$Onyu_aleph003200654</linktorsrc>
+    <linktorsrc>$$V$$Uhttps://ezproxy.library.nyu.edu/login?url=http://site.ebrary.com/lib/nyulibrary/Doc?id=10190736$$DOnline Resource$$INYUAD$$Onyu_aleph003200654</linktorsrc>
+    <linktorsrc>$$V$$Uhttps://ezproxy.library.nyu.edu/login?url=http://site.ebrary.com/lib/nyulibrary/Doc?id=10190736$$DOnline Resource$$INYUSH$$Onyu_aleph003200654</linktorsrc>
+    <linktorsrc>$$V$$Uhttp://proxy.library.cooper.edu:2048/login?url=http://site.ebrary.com/lib/cooper/Doc?id=10190736$$DEbook Central$$ICU$$Onyu_aleph003200654</linktorsrc>
+    <linktorsrc>$$V$$Uhttps://login.libproxy.newschool.edu/login?url=http://site.ebrary.com/lib/newschool/Doc?id=10190736$$DOnline Version$$INS$$Onyu_aleph003200654</linktorsrc>
+    <linktorsrc>$$V$$Uhttps://ezproxy.library.nyu.edu/login?url=http://www.jstor.org/stable/10.2307/j.ctt1njkw8$$DBooks at JSTOR$$INYU$$OERESDSB000026524</linktorsrc>
+    <linktorsrc>$$V$$Uhttps://ezproxy.library.nyu.edu/login?url=http://www.jstor.org/stable/10.2307/j.ctt1njkw8$$DBooks at JSTOR$$INYUAD$$OERESDSB000026524</linktorsrc>
+    <linktorsrc>$$V$$Uhttps://ezproxy.library.nyu.edu/login?url=http://www.jstor.org/stable/10.2307/j.ctt1njkw8$$DBooks at JSTOR$$INYUSH$$OERESDSB000026524</linktorsrc>
+    <linktorsrc>$$V$$Uhttp://site.ebrary.com/id/10190736$$Debrary$$Onyu_aleph004208330</linktorsrc>
+    <linktorsrc>$$V$$Uhttps://login.libproxy.newschool.edu/login?url=http://www.jstor.org/stable/10.2307/j.ctt1njkw8$$DOnline Version$$INS$$ONSDDAJSTORocn175055661</linktorsrc>
+    <openurl>$$V$$Topenurl_journal$$Onyu_aleph003200654</openurl>
+    <openurl>$$V$$Topenurl_journal$$OERESDSB000026524</openurl>
+    <openurl>$$V$$Topenurl_journal$$Onyu_aleph004208330</openurl>
+    <openurl>$$V$$Topenurl_journal$$ONSDDAJSTORocn175055661</openurl>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$Onyu_aleph003200654</openurlfulltext>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$OERESDSB000026524</openurlfulltext>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$Onyu_aleph004208330</openurlfulltext>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$ONSDDAJSTORocn175055661</openurlfulltext>
+    <addlink>$$Uhttp://catdir.loc.gov/catdir/toc/ecip041/2003005805.html$$DTable of contents</addlink>
+    <linktotoc>$$Tamazon_toc$$DCheck for Amazon Search Inside</linktotoc>
+    <linktotoc>$$Tamazon_toc$$DCheck for Amazon Search Inside</linktotoc>
+    <linktotoc>$$Uhttp://catdir.loc.gov/catdir/toc/ecip041/2003005805.html$$DTable of contents</linktotoc>
+    <linktoexcerpt>$$Tsyndetics_excerpt$$DExcerpt from item</linktoexcerpt>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tamazon_uc$$DCheck Amazon</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DCheck other libraries (WorldCat®)</linktouc>
+    <linktouc>$$Tamazon_uc$$DCheck Amazon</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DCheck other libraries (WorldCat®)</linktouc>
+    <linktouc>$$Tamazon_uc$$DCheck Amazon</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DCheck other libraries (WorldCat®)</linktouc>
+    <thumbnail>$$Tamazon_thumb</thumbnail>
+  </links>
+  <search>
+    <title>&lt;span class="searchword">Hamlet&lt;/span></title>
+    <general>[electronic resource] /</general>
+    <general>ebrac</general>
+    <recordid>nyu_aleph003200654</recordid>
+    <searchscope>CU</searchscope>
+    <searchscope>CU Restricted Internet Resources</searchscope>
+    <searchscope>TWEB</searchscope>
+    <searchscope>TWEB Internet Resources</searchscope>
+    <searchscope>CWEB</searchscope>
+    <scope>CU</scope>
+    <scope>CU Restricted Internet Resources</scope>
+    <scope>TWEB</scope>
+    <scope>TWEB Internet Resources</scope>
+    <scope>CWEB</scope>
+    <creatorcontrib>William,  Shakespeare  1564-1616.</creatorcontrib>
+    <creatorcontrib>Shakespeare, William, 1564-1616.</creatorcontrib>
+    <creatorcontrib>Shakespeare, W</creatorcontrib>
+    <creatorcontrib>William Shakespeare ; fully annotated, with an introduction by Burton Raffel ; with an essay by Harold Bloom.</creatorcontrib>
+    <creatorcontrib>Burton.  Raffel</creatorcontrib>
+    <creatorcontrib>Harold.  Bloom</creatorcontrib>
+    <creatorcontrib>Raffel, B</creatorcontrib>
+    <creatorcontrib>Bloom, H</creatorcontrib>
+    <title>&lt;span class="searchword">Hamlet&lt;/span> /</title>
+    <subject>Hamlet (Legendary character)  Drama</subject>
+    <subject>Ophelia (Fictitious character)  Drama</subject>
+    <subject>Gertrude, Queen of Denmark (Fictitious character)</subject>
+    <subject>Hamlet (Legendary character)</subject>
+    <subject>Ophelia (Fictitious character)</subject>
+    <subject>Claudius, King of Denmark (Fictitious character)  Drama</subject>
+    <subject>Polonius (Fictitious character : Shakespeare)  Drama</subject>
+    <subject>Horatio (Fictitious character : Shakespeare)  Drama</subject>
+    <subject>Laertes (Fictitious character : Shakespeare)  Drama</subject>
+    <subject>Gertrude, Queen of Denmark (Fictitious character)  Drama</subject>
+    <subject>Princes  Denmark Drama</subject>
+    <subject>Murder victims' families  Drama</subject>
+    <subject>Regicide  Drama</subject>
+    <subject>Fathers  Death Drama</subject>
+    <subject>Revenge  Drama</subject>
+    <subject>Denmark  Drama</subject>
+    <subject>Murder victims'' families  Drama</subject>
+    <subject>Princes  Drama</subject>
+    <subject>LITERARY CRITICISM  Shakespeare</subject>
+    <subject>DRAMA  Shakespeare</subject>
+    <subject>Claudius, King of Denmark (Fictitious character)</subject>
+    <subject>Fathers  Death</subject>
+    <subject>Horatio (Fictitious character : Shakespeare)</subject>
+    <subject>Laertes (Fictitious character : Shakespeare)</subject>
+    <subject>Murder victims' families</subject>
+    <subject>Polonius (Fictitious character : Shakespeare)</subject>
+    <subject>Princes</subject>
+    <subject>Regicide</subject>
+    <subject>Revenge</subject>
+    <subject>Denmark</subject>
+    <subject>Electronic books</subject>
+    <subject>Tragedies (Drama)</subject>
+    <subject>Drama</subject>
+    <general>Yale University Press,</general>
+    <general>jstoreba</general>
+    <general>175055661</general>
+    <sourceid>ERESDSB</sourceid>
+    <recordid>ERESDSB000026524</recordid>
+    <isbn>9780300138238</isbn>
+    <isbn>0300138237</isbn>
+    <isbn>0300101759</isbn>
+    <isbn>9780300101751</isbn>
+    <isbn>0300101058</isbn>
+    <isbn>9780300101058</isbn>
+    <toc>""Contents ""; ""About This Book""; ""Introduction""; ""The Tragedy of Hamlet, Prince of Denmark""; ""An Essay by Harold Bloom""; ""Further Reading""; ""Finding List""</toc>
+    <rsrctype>book</rsrctype>
+    <creationdate>2003</creationdate>
+    <addtitle>Works. Yale University Press. 2003.</addtitle>
+    <addtitle>The annotated Shakespeare</addtitle>
+    <addtitle>Hamlet.</addtitle>
+    <searchscope>BWEB</searchscope>
+    <searchscope>BWEB Internet Resources</searchscope>
+    <searchscope>ERESDSB</searchscope>
+    <searchscope>BOBST</searchscope>
+    <searchscope>IFA</searchscope>
+    <searchscope>IFAC</searchscope>
+    <searchscope>ISAW</searchscope>
+    <searchscope>COUR</searchscope>
+    <searchscope>REI</searchscope>
+    <scope>BWEB</scope>
+    <scope>BWEB Internet Resources</scope>
+    <scope>ERESDSB</scope>
+    <scope>BOBST</scope>
+    <scope>IFA</scope>
+    <scope>IFAC</scope>
+    <scope>ISAW</scope>
+    <scope>COUR</scope>
+    <scope>REI</scope>
+    <lsr01>PR2807.A2 R34 2003eb</lsr01>
+    <lsr01>PR2807 .A2 R34 2003eb</lsr01>
+    <lsr02>Yale University Press,</lsr02>
+    <lsr10>9780300138238</lsr10>
+    <lsr10>0300138237</lsr10>
+    <creatorcontrib>Ṣēkspiyar, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspir, Uiliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspir, Vilʹi͡am, 1564-1616</creatorcontrib>
+    <creatorcontrib>Šekspir, Viljem, 1564-1616</creatorcontrib>
+    <creatorcontrib>Şekspir, Velyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Szekspir, William, 1564-1616</creatorcontrib>
+    <creatorcontrib>Szekspir, Wiliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakspere, William, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shēkʻspir, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shaḳspir, Ṿilyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar, Villiyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar, Viliyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Şekspir, 1564-1616</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar Mahākaviya, 1564-1616</creatorcontrib>
+    <creatorcontrib>Sheḳspier, Ṿilyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakspeare, William, 1564-1616</creatorcontrib>
+    <creatorcontrib>Syeiksŭpʻio, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shashibiya, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakespeare, Guglielmo, 1564-1616</creatorcontrib>
+    <creatorcontrib>Šekʻspiri, Uiliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Sheḳspir, Ṿilyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shikisbīr, Wilyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspir, U. (Uiliam), 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspyr, Vyli͡em, 1564-1616</creatorcontrib>
+    <creatorcontrib>Tsikinya-chaka, 1564-1616</creatorcontrib>
+    <creatorcontrib>Sha-shih-pi-ya, 1564-1616</creatorcontrib>
+    <creatorcontrib>Šekspyras, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shake-speare, William, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shēkʻspʻiyr, Vlilliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Sha-ō, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakspir, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspir, V. (Vilʹi͡am), 1564-1616</creatorcontrib>
+    <creatorcontrib>Saixpēr, Gouilliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar Mahākavi, 1564-1616</creatorcontrib>
+    <creatorcontrib>Šekspir, Vilijam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakespeare, 1564-1616</creatorcontrib>
+    <creatorcontrib>Śeksper, 1564-1616</creatorcontrib>
+    <creatorcontrib>Шекспир, Вильям, 1564-1616</creatorcontrib>
+    <creatorcontrib>Шекспир, Уильям, 1564-1616</creatorcontrib>
+    <creatorcontrib>שייקספיר, וויליאם, 1564-1616</creatorcontrib>
+    <creatorcontrib>שייקספיר, וו., 1564־1616</creatorcontrib>
+    <creatorcontrib>שיקספיר, וויליאם</creatorcontrib>
+    <creatorcontrib>שיקספיר, ויליאם</creatorcontrib>
+    <creatorcontrib>שיקספיר, ויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שכספיר, ויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שכספיר, וילים, 1564־1616</creatorcontrib>
+    <creatorcontrib>שכספיר, ו׳</creatorcontrib>
+    <creatorcontrib>שעפקספיר, וויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיער, וויליאם</creatorcontrib>
+    <creatorcontrib>שעקספיער, וויליאם, .1616-1564</creatorcontrib>
+    <creatorcontrib>שעקספיער, וויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיער, ווילליאם .1616-1564</creatorcontrib>
+    <creatorcontrib>שעקספיער, וו., 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר</creatorcontrib>
+    <creatorcontrib>שעקספיר, וו</creatorcontrib>
+    <creatorcontrib>שעקספיר, וויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, וויליאמ</creatorcontrib>
+    <creatorcontrib>שעקספיר, ווילליאם</creatorcontrib>
+    <creatorcontrib>שעקספיר, ווילליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, וו., 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, װיליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, װילליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, װ., 1564-1616</creatorcontrib>
+    <creatorcontrib>שעקספער</creatorcontrib>
+    <creatorcontrib>שעקספער, וויליאמ</creatorcontrib>
+    <creatorcontrib>שקספיר</creatorcontrib>
+    <creatorcontrib>שקספיר, וו</creatorcontrib>
+    <creatorcontrib>שקספיר, וויליאם</creatorcontrib>
+    <creatorcontrib>שקספיר, וויליאם, 1564-1616</creatorcontrib>
+    <creatorcontrib>שקספיר, ווילים, 1564-1616</creatorcontrib>
+    <creatorcontrib>שקספיר, וילאם</creatorcontrib>
+    <creatorcontrib>שקספיר, ויליאם</creatorcontrib>
+    <creatorcontrib>שקספיר, ויליאם, 1564-1616</creatorcontrib>
+    <creatorcontrib>שקספיר, ויליאם, 1916־1564</creatorcontrib>
+    <creatorcontrib>שקספיר, ויליים, 1564־1616</creatorcontrib>
+    <creatorcontrib>שקספיר, וילים</creatorcontrib>
+    <creatorcontrib>שקספיר, וילים, 1564־1616</creatorcontrib>
+    <creatorcontrib>شاكسبير، وليم</creatorcontrib>
+    <creatorcontrib>شاكسپير، وليم</creatorcontrib>
+    <creatorcontrib>شكسبير، وليام</creatorcontrib>
+    <creatorcontrib>شكسبير، وليم</creatorcontrib>
+    <creatorcontrib>شكسبير، وليم، 1564-1616</creatorcontrib>
+    <creatorcontrib>شكسبير، و.</creatorcontrib>
+    <creatorcontrib>شكسپير، وليم</creatorcontrib>
+    <creatorcontrib>شكسپير، ويليام</creatorcontrib>
+    <creatorcontrib>شكسپير، ويليام، 1564-1616</creatorcontrib>
+    <creatorcontrib>شيكسبير، وليام</creatorcontrib>
+    <creatorcontrib>شيكسبير، وليام.، 1616-1564</creatorcontrib>
+    <creatorcontrib>شيكسبير، وليم</creatorcontrib>
+    <creatorcontrib>شکسبير، وليم</creatorcontrib>
+    <creatorcontrib>وليم شکسبير</creatorcontrib>
+    <creatorcontrib>沙士北亞威廉姆, 1564-1616</creatorcontrib>
+    <creatorcontrib>沙士比亞威廉姆, 1564-1616</creatorcontrib>
+    <creatorcontrib>莎士比亞威廉姆, 1564-1616</creatorcontrib>
+    <creatorcontrib>莎士比亞威廉, 1564-1616</creatorcontrib>
+    <creatorcontrib>莎士比亞, 1564-1616</creatorcontrib>
+    <description>"One of the most frequently read and performed of all stage works, Shakespeare's Hamlet is unsurpassed in its complexity and richness. Now the most extensively annotated version of Hamlet to date makes the play completely accessible to readers in the twenty-first century. It has been carefully assembled with students, teachers, and the general reader in mind." "Eminent linguist and translator Burton Raffel offers generous help with vocabulary and usage of Elizabethan English, pronunciation, prosody, and alternative readings of phrases and lines. His on-page annotations provide readers with all the tools they need to comprehend the play and begin to explore its many possible interpretations. This version of Hamlet is unparalleled for its thoroughness and adherence to sound historical linguistics." "In his introduction, Raffel offers important background on the origins and previous versions of the Hamlet story, along with an analysis of the characters Hamlet and Ophelia. And in a concluding essay, Harold Bloom meditates on the originality of Shakespeare's achievement. The book also includes a careful selection of items for further reading."--Jacket.</description>
+    <subject>Shakespeare, William</subject>
+    <subject>Hamlet</subject>
+    <subject>Amleth (Legendary character)</subject>
+    <subject>Claudius (Fictitious character : Updike)</subject>
+    <subject>Gertrude (Fictitious character : Updike)</subject>
+    <subject>Dads</subject>
+    <subject>Royalty</subject>
+    <subject>Vengeance</subject>
+    <subject>Dacia (Kingdom)</subject>
+    <subject>Dennemarck</subject>
+    <subject>Denemarken</subject>
+    <subject>Dania</subject>
+    <subject>Danmark</subject>
+    <subject>Daniyah</subject>
+    <subject>Danyah</subject>
+    <subject>Dannemarc</subject>
+    <subject>Denmaakʻŭ</subject>
+    <general>51886286</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph004208330</recordid>
+    <toc>The Tragedy of Hamlet, Prince of Denmark 1 -- Essay by Harold Bloom -- Further Reading -- Finding List.</toc>
+    <searchscope>NDIBN</searchscope>
+    <searchscope>NDIBN Course Reserve</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYU</searchscope>
+    <scope>NDIBN</scope>
+    <scope>NDIBN Course Reserve</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYU</scope>
+    <lsr01>PR2807.A2 R34 2003</lsr01>
+    <lsr01>PR2807 .A2 R34 2003</lsr01>
+    <lsr10>0300101759</lsr10>
+    <lsr10>9780300101751</lsr10>
+    <lsr10>0300101058</lsr10>
+    <lsr10>9780300101058</lsr10>
+    <subject>Ebooks</subject>
+    <subject>E-books</subject>
+    <subject>Online books</subject>
+    <general>JSTOR</general>
+    <sourceid>NSDDAJSTOR</sourceid>
+    <recordid>NSDDAJSTORocn175055661</recordid>
+    <searchscope>NSDDAJSTOR</searchscope>
+    <scope>NSDDAJSTOR</scope>
+  </search>
+  <sort>
+    <title>Hamlet</title>
+    <creationdate>2003</creationdate>
+    <author>Shakespeare, William, 1564-1616.</author>
+    <lso01>2003</lso01>
+  </sort>
+  <facets>
+    <collection>CU</collection>
+    <collection>TWEB</collection>
+    <library>CWEB</library>
+    <library>TWEB</library>
+    <lfc01>Restricted Internet Resources</lfc01>
+    <newrecords>20111231_588</newrecords>
+    <language>eng</language>
+    <creationdate>2003</creationdate>
+    <topic>Hamlet (Legendary character)–Drama</topic>
+    <topic>Ophelia (Fictitious character)–Drama</topic>
+    <topic>Gertrude, Queen of Denmark (Fictitious character)</topic>
+    <topic>Hamlet (Legendary character)</topic>
+    <topic>Ophelia (Fictitious character)</topic>
+    <topic>Claudius, King of Denmark (Fictitious character)–Drama</topic>
+    <topic>Polonius (Fictitious character : Shakespeare)–Drama</topic>
+    <topic>Horatio (Fictitious character : Shakespeare)–Drama</topic>
+    <topic>Laertes (Fictitious character : Shakespeare)–Drama</topic>
+    <topic>Gertrude, Queen of Denmark (Fictitious character)–Drama</topic>
+    <topic>Princes–Denmark–Drama</topic>
+    <topic>Murder victims' families–Drama</topic>
+    <topic>Regicide–Drama</topic>
+    <topic>Fathers–Death–Drama</topic>
+    <topic>Revenge–Drama</topic>
+    <topic>Denmark–Drama</topic>
+    <topic>Murder victims'' families–Drama</topic>
+    <topic>Princes–Drama</topic>
+    <topic>LITERARY CRITICISM–Shakespeare</topic>
+    <topic>DRAMA–Shakespeare</topic>
+    <topic>Claudius, King of Denmark (Fictitious character)</topic>
+    <topic>Fathers–Death</topic>
+    <topic>Horatio (Fictitious character : Shakespeare)</topic>
+    <topic>Laertes (Fictitious character : Shakespeare)</topic>
+    <topic>Murder victims' families</topic>
+    <topic>Polonius (Fictitious character : Shakespeare)</topic>
+    <topic>Princes</topic>
+    <topic>Regicide</topic>
+    <topic>Revenge</topic>
+    <topic>Denmark</topic>
+    <toplevel>available</toplevel>
+    <toplevel>online_resources</toplevel>
+    <prefilter>books</prefilter>
+    <rsrctype>books</rsrctype>
+    <creatorcontrib>Shakespeare, W</creatorcontrib>
+    <creatorcontrib>Raffel, B</creatorcontrib>
+    <creatorcontrib>Bloom, H</creatorcontrib>
+    <genre>Drama</genre>
+    <genre>Electronic books</genre>
+    <genre>Tragedies (Drama)</genre>
+    <library>BOBST</library>
+    <library>IFA</library>
+    <library>IFAC</library>
+    <library>ISAW</library>
+    <library>COUR</library>
+    <library>REI</library>
+    <lfc01>Internet Resources</lfc01>
+    <newrecords>20170201_419</newrecords>
+    <classificationlcc>P - Language and literature.–English literature</classificationlcc>
+    <topic>Shakespeare, William</topic>
+    <topic>Hamlet</topic>
+    <library>NDIBN</library>
+    <lfc01>Course Reserve</lfc01>
+    <newrecords>20151119_409</newrecords>
+    <newrecords>20170303_822</newrecords>
+    <frbrgroupid>21507923</frbrgroupid>
+    <frbrtype>5</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c1>2003005805</c1>
+    <c2>9780300138238;0300101759;0300101058;0300138237;9780300101751;9780300101058</c2>
+    <c3>hamlet</c3>
+    <c4>2003</c4>
+    <f2>2003005805</f2>
+    <f4>9780300138238;0300101759;0300101058;0300138237;9780300101751;9780300101058</f4>
+    <f5>hamlet</f5>
+    <f6>2003</f6>
+    <f7>hamlet</f7>
+    <f8>ctu</f8>
+    <f9>xxxi, 249 p.</f9>
+    <f10>yale university press</f10>
+    <f11>shakespeare william 1564 1616</f11>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kshakespeare william 1564 1616$$AA</k1>
+    <k3>$$Kbookhamlet$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>$$VNYU$$Onyu_aleph003200654</institution>
+    <institution>$$VCU$$Onyu_aleph003200654</institution>
+    <institution>$$VNS$$Onyu_aleph003200654</institution>
+    <institution>$$VNYUAD$$Onyu_aleph003200654</institution>
+    <institution>$$VNYUSH$$Onyu_aleph003200654</institution>
+    <delcategory>$$VOnline Resource$$Onyu_aleph003200654</delcategory>
+    <institution>$$VNYU$$OERESDSB000026524</institution>
+    <institution>$$VNYUAD$$OERESDSB000026524</institution>
+    <institution>$$VNYUSH$$OERESDSB000026524</institution>
+    <delcategory>$$VOnline Resource$$OERESDSB000026524</delcategory>
+    <institution>$$VNYU$$Onyu_aleph004208330</institution>
+    <delcategory>$$VOnline Resource$$Onyu_aleph004208330</delcategory>
+    <institution>$$VNS$$ONSDDAJSTORocn175055661</institution>
+    <delcategory>$$VOnline Resource$$ONSDDAJSTORocn175055661</delcategory>
+  </delivery>
+  <enrichment>
+    <classificationlcc>PR2807.A2</classificationlcc>
+  </enrichment>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <risdate>c2003.</risdate>
+    <notes>Includes bibliographical references (p. 245-247).</notes>
+    <lad01>BWEBCUTWEB</lad01>
+    <lad03>ebrac_10190736</lad03>
+    <aulast>Shakespeare</aulast>
+    <aufirst>William,</aufirst>
+    <au>Shakespeare, William, 1564-1616</au>
+    <addau>Raffel, Burton</addau>
+    <addau>Bloom, Harold</addau>
+    <seriesau>Shakespeare, William, 1564-1616</seriesau>
+    <btitle>Hamlet</btitle>
+    <seriestitle>Shakespeare, William, 1564-1616. Works. Yale University Press. 2003</seriestitle>
+    <date>2003</date>
+    <risdate>©2003.</risdate>
+    <eissn>0300101759 9780300101751</eissn>
+    <isbn>9780300138238</isbn>
+    <isbn>0300138237</isbn>
+    <format>book</format>
+    <genre>book</genre>
+    <ristype>BOOK</ristype>
+    <notes>Includes bibliographical references (pages 245-247).</notes>
+    <cop>New Haven</cop>
+    <pub>Yale University Press</pub>
+    <oclcid>175055661</oclcid>
+    <lad01>BWEB</lad01>
+    <lad01>Online Resource</lad01>
+    <lad03>jstoreba_10.2307/j.ctt1njkw8</lad03>
+    <isbn>0300101759</isbn>
+    <isbn>9780300101751</isbn>
+    <isbn>0300101058</isbn>
+    <isbn>9780300101058</isbn>
+    <abstract>"One of the most frequently read and performed of all stage works, Shakespeare's Hamlet is unsurpassed in its complexity and richness. Now the most extensively annotated version of Hamlet to date makes the play completely accessible to readers in the twenty-first century. It has been carefully assembled with students, teachers, and the general reader in mind." "Eminent linguist and translator Burton Raffel offers generous help with vocabulary and usage of Elizabethan English, pronunciation, prosody, and alternative readings of phrases and lines. His on-page annotations provide readers with all the tools they need to comprehend the play and begin to explore its many possible interpretations. This version of Hamlet is unparalleled for its thoroughness and adherence to sound historical linguistics." "In his introduction, Raffel offers important background on the origins and previous versions of the Hamlet story, along with an analysis of the characters Hamlet and Ophelia. And in a concluding essay, Harold Bloom meditates on the originality of Shakespeare's achievement. The book also includes a careful selection of items for further reading."--Jacket.</abstract>
+    <oclcid>51886286</oclcid>
+    <lccn>2003005805</lccn>
+    <lad01>NDIBN</lad01>
+    <lad01>TWEB</lad01>
+  </addata>
+  <browse/>
+</record>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>003268849</sourcerecordid>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph003268849</recordid>
+    <originalsourceid>NYU01</originalsourceid>
+    <ilsapiid>NYU01003268849</ilsapiid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>Aleph</sourcesystem>
+  </control>
+  <display>
+    <type>audio</type>
+    <title>&lt;span class="searchword">Hamlet&lt;/span> [sound recording]</title>
+    <creator>Pierre.  Groscolas</creator>
+    <contributor>Gilles Chibaut; Johnny Hallyday 1943-; Gabriel Yared; Roger Loubert; William Shakespeare 1564-1616.</contributor>
+    <publisher>France : Philips</publisher>
+    <creationdate>2000], p1976</creationdate>
+    <format>2 sound discs : digital, stereo. ; 4 3/4 in.</format>
+    <identifier>$$Cmuspub$$V546 944-2--546 945-2 Philips; $$Cmuspub$$V546 943-2 Philips</identifier>
+    <subject>Musicals -- Excerpts, Arranged</subject>
+    <description>$$C contents$$V Ouverture (3:31) -- Prologue (1:04) -- Le vieux roi est mort (4:03) -- Le spectre du roi (1:15) -- L'orgie (2:51) -- Prière du spectre à &lt;span class="searchword">Hamlet&lt;/span> (1:35) -- Roi vivant (2:25) -- J'effacerai de ma mémoire (3:20) -- Je suis fou (4:36) -- On a peur de lui (2:00) -- Phelie oh folie (3:20) -- L'asticot roi (2:41) -- Je lis (2:16) -- Que mal te bouffe (1:40) -- Doute (2:55) -- To be or not to be (4:59) -- Un trône est sans roi (3:18) -- Tu le (chœurs et chant) (4:01) -- Ta mère est putain (1:10) -- Pour l'amour (3:40) -- Le cimetière (2:18) -- Écoutez (intro) (1:13) -- Écoutez (1:41) -- La mort d'Ophélie (5:44) -- Je l'aimais ; Il est fou (3:59) -- Le duel (2:05) -- La mort d'&lt;span class="searchword">Hamlet&lt;/span> (1:08) -- Le rideau tombe (3:39).</description>
+    <description>$$Ccredits$$VJohnny Hallyday, vocals ; with vocal and instrumental acc. ; Gabriel Yared and Roger Loubet, arrangers and conductors.</description>
+    <language>fre</language>
+    <relation>Shakespeare, William, 1564-1616. &lt;span class="searchword">Hamlet&lt;/span>.</relation>
+    <source>nyu_aleph</source>
+    <availlibrary>$$INYU$$LBAFC$$1Main Collection$$2(XCD 59072 )$$Savailable$$31$$40$$5N$$61$$XNYU50$$YBAFC$$ZAFC</availlibrary>
+    <unititle>Hamlet.</unititle>
+    <lds02>nyu_aleph003268849</lds02>
+    <lds01>NYU</lds01>
+    <availinstitution>$$INYU$$Savailable</availinstitution>
+    <availpnx>available</availpnx>
+    <snippetfield>toc</snippetfield>
+    <snippetfield>toc</snippetfield>
+    <snippet>'Ophélie (5:44) -- Je l'aimais ; Il est fou (3:59) -- Le duel (2:05) -- La mort d'&lt;span class="searchword">Hamlet&lt;/span> (1:08) -- Le rideau tombe (3:39).... Ouverture (3:31) -- Prologue (1:04) -- Le vieux roi est mort (4:03) -- Le spectre du roi (1:15) -- L'orgie (2:51) -- Prière du spectre à &lt;span class="searchword">Hamlet&lt;/span> (1:35) -- Roi vivant (2:25) -- J'effacerai de ma</snippet>
+  </display>
+  <links>
+    <openurl>$$Topenurl_journal</openurl>
+    <backlink>$$Taleph_backlink$$DMore bibliographic information</backlink>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+    <linktoholdings>$$Taleph_holdings</linktoholdings>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tworldcat_oclc$$DCheck other libraries (WorldCat®)</linktouc>
+  </links>
+  <search>
+    <creatorcontrib>Pierre.  Groscolas</creatorcontrib>
+    <creatorcontrib>Groscolas, Pierre.</creatorcontrib>
+    <creatorcontrib>Groscolas, P</creatorcontrib>
+    <creatorcontrib>[music by Pierre Groscolas ; lyrics by Gilles Chibaut].</creatorcontrib>
+    <creatorcontrib>Johnny Hallyday, vocals ; with vocal and instrumental acc. ; Gabriel Yared and Roger Loubet, arrangers and conductors.</creatorcontrib>
+    <creatorcontrib>Gilles.  Chibaut</creatorcontrib>
+    <creatorcontrib>Johnny,  Hallyday  1943-</creatorcontrib>
+    <creatorcontrib>Gabriel.  Yared</creatorcontrib>
+    <creatorcontrib>Roger.  Loubert</creatorcontrib>
+    <creatorcontrib>William,  Shakespeare  1564-1616.</creatorcontrib>
+    <creatorcontrib>Chibaut, G</creatorcontrib>
+    <creatorcontrib>Hallyday, J</creatorcontrib>
+    <creatorcontrib>Yared, G</creatorcontrib>
+    <creatorcontrib>Loubert, R</creatorcontrib>
+    <creatorcontrib>Shakespeare, W</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspir, Uiliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspir, Vilʹi͡am, 1564-1616</creatorcontrib>
+    <creatorcontrib>Šekspir, Viljem, 1564-1616</creatorcontrib>
+    <creatorcontrib>Şekspir, Velyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Szekspir, William, 1564-1616</creatorcontrib>
+    <creatorcontrib>Szekspir, Wiliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakspere, William, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shēkʻspir, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shaḳspir, Ṿilyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar, Villiyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar, Viliyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Şekspir, 1564-1616</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar Mahākaviya, 1564-1616</creatorcontrib>
+    <creatorcontrib>Sheḳspier, Ṿilyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakspeare, William, 1564-1616</creatorcontrib>
+    <creatorcontrib>Syeiksŭpʻio, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shashibiya, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakespeare, Guglielmo, 1564-1616</creatorcontrib>
+    <creatorcontrib>Šekʻspiri, Uiliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Sheḳspir, Ṿilyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shikisbīr, Wilyam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspir, U. (Uiliam), 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspyr, Vyli͡em, 1564-1616</creatorcontrib>
+    <creatorcontrib>Tsikinya-chaka, 1564-1616</creatorcontrib>
+    <creatorcontrib>Sha-shih-pi-ya, 1564-1616</creatorcontrib>
+    <creatorcontrib>Šekspyras, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shake-speare, William, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shēkʻspʻiyr, Vlilliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Sha-ō, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakspir, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shekspir, V. (Vilʹi͡am), 1564-1616</creatorcontrib>
+    <creatorcontrib>Saixpēr, Gouilliam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Ṣēkspiyar Mahākavi, 1564-1616</creatorcontrib>
+    <creatorcontrib>Šekspir, Vilijam, 1564-1616</creatorcontrib>
+    <creatorcontrib>Shakespeare, 1564-1616</creatorcontrib>
+    <creatorcontrib>Śeksper, 1564-1616</creatorcontrib>
+    <creatorcontrib>Шекспир, Вильям, 1564-1616</creatorcontrib>
+    <creatorcontrib>Шекспир, Уильям, 1564-1616</creatorcontrib>
+    <creatorcontrib>שייקספיר, וויליאם, 1564-1616</creatorcontrib>
+    <creatorcontrib>שייקספיר, וו., 1564־1616</creatorcontrib>
+    <creatorcontrib>שיקספיר, וויליאם</creatorcontrib>
+    <creatorcontrib>שיקספיר, ויליאם</creatorcontrib>
+    <creatorcontrib>שיקספיר, ויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שכספיר, ויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שכספיר, וילים, 1564־1616</creatorcontrib>
+    <creatorcontrib>שכספיר, ו׳</creatorcontrib>
+    <creatorcontrib>שעפקספיר, וויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיער, וויליאם</creatorcontrib>
+    <creatorcontrib>שעקספיער, וויליאם, .1616-1564</creatorcontrib>
+    <creatorcontrib>שעקספיער, וויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיער, ווילליאם .1616-1564</creatorcontrib>
+    <creatorcontrib>שעקספיער, וו., 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר</creatorcontrib>
+    <creatorcontrib>שעקספיר, וו</creatorcontrib>
+    <creatorcontrib>שעקספיר, וויליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, וויליאמ</creatorcontrib>
+    <creatorcontrib>שעקספיר, ווילליאם</creatorcontrib>
+    <creatorcontrib>שעקספיר, ווילליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, וו., 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, װיליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, װילליאם, 1564־1616</creatorcontrib>
+    <creatorcontrib>שעקספיר, װ., 1564-1616</creatorcontrib>
+    <creatorcontrib>שעקספער</creatorcontrib>
+    <creatorcontrib>שעקספער, וויליאמ</creatorcontrib>
+    <creatorcontrib>שקספיר</creatorcontrib>
+    <creatorcontrib>שקספיר, וו</creatorcontrib>
+    <creatorcontrib>שקספיר, וויליאם</creatorcontrib>
+    <creatorcontrib>שקספיר, וויליאם, 1564-1616</creatorcontrib>
+    <creatorcontrib>שקספיר, ווילים, 1564-1616</creatorcontrib>
+    <creatorcontrib>שקספיר, וילאם</creatorcontrib>
+    <creatorcontrib>שקספיר, ויליאם</creatorcontrib>
+    <creatorcontrib>שקספיר, ויליאם, 1564-1616</creatorcontrib>
+    <creatorcontrib>שקספיר, ויליאם, 1916־1564</creatorcontrib>
+    <creatorcontrib>שקספיר, ויליים, 1564־1616</creatorcontrib>
+    <creatorcontrib>שקספיר, וילים</creatorcontrib>
+    <creatorcontrib>שקספיר, וילים, 1564־1616</creatorcontrib>
+    <creatorcontrib>شاكسبير، وليم</creatorcontrib>
+    <creatorcontrib>شاكسپير، وليم</creatorcontrib>
+    <creatorcontrib>شكسبير، وليام</creatorcontrib>
+    <creatorcontrib>شكسبير، وليم</creatorcontrib>
+    <creatorcontrib>شكسبير، وليم، 1564-1616</creatorcontrib>
+    <creatorcontrib>شكسبير، و.</creatorcontrib>
+    <creatorcontrib>شكسپير، وليم</creatorcontrib>
+    <creatorcontrib>شكسپير، ويليام</creatorcontrib>
+    <creatorcontrib>شكسپير، ويليام، 1564-1616</creatorcontrib>
+    <creatorcontrib>شيكسبير، وليام</creatorcontrib>
+    <creatorcontrib>شيكسبير، وليام.، 1616-1564</creatorcontrib>
+    <creatorcontrib>شيكسبير، وليم</creatorcontrib>
+    <creatorcontrib>شکسبير، وليم</creatorcontrib>
+    <creatorcontrib>وليم شکسبير</creatorcontrib>
+    <creatorcontrib>沙士北亞威廉姆, 1564-1616</creatorcontrib>
+    <creatorcontrib>沙士比亞威廉姆, 1564-1616</creatorcontrib>
+    <creatorcontrib>莎士比亞威廉姆, 1564-1616</creatorcontrib>
+    <creatorcontrib>莎士比亞威廉, 1564-1616</creatorcontrib>
+    <creatorcontrib>莎士比亞, 1564-1616</creatorcontrib>
+    <creatorcontrib>Smet, Jean-Philippe, 1943-</creatorcontrib>
+    <title>&lt;span class="searchword">Hamlet&lt;/span></title>
+    <subject>Musicals  Excerpts, Arranged</subject>
+    <subject>Musical revues, comedies, etc</subject>
+    <subject>Musical shows</subject>
+    <subject>Operettas</subject>
+    <subject>Shows, Musical</subject>
+    <subject>Musical comedies</subject>
+    <subject>Musical plays</subject>
+    <general>Philips,</general>
+    <general>Excerpts from the musical.</general>
+    <general>Based on the play by William Shakespeare.</general>
+    <general>Originally released by Mercury Records in 1976.</general>
+    <general>Compact discs.</general>
+    <general>731454694322</general>
+    <general>546 944-2--546 945-2</general>
+    <general>546 943-2</general>
+    <general>[sound recording] /</general>
+    <general>61285718</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph003268849</recordid>
+    <toc>Ouverture (3:31) -- Prologue (1:04) -- Le vieux roi est mort (4:03) -- Le spectre du roi (1:15) -- L'orgie (2:51) -- Prière du spectre à Hamlet (1:35) -- Roi vivant (2:25) -- J'effacerai de ma mémoire (3:20) -- Je suis fou (4:36) -- On a peur de lui (2:00) -- Phelie oh folie (3:20) -- L'asticot roi (2:41) -- Je lis (2:16) -- Que mal te bouffe (1:40) -- Doute (2:55) -- To be or not to be (4:59) -- Un trône est sans roi (3:18) -- Tu le (chœurs et chant) (4:01) -- Ta mère est putain (1:10) -- Pour l'amour (3:40) -- Le cimetière (2:18) -- Écoutez (intro) (1:13) -- Écoutez (1:41) -- La mort d'Ophélie (5:44) -- Je l'aimais ; Il est fou (3:59) -- Le duel (2:05) -- La mort d'Hamlet (1:08) -- Le rideau tombe (3:39).</toc>
+    <rsrctype>audio</rsrctype>
+    <creationdate>2000</creationdate>
+    <creationdate>1976</creationdate>
+    <addtitle>Hamlet.</addtitle>
+    <searchscope>BAFC</searchscope>
+    <searchscope>BAFC Main Collection</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYU</searchscope>
+    <searchscope>BOBST</searchscope>
+    <scope>BAFC</scope>
+    <scope>BAFC Main Collection</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYU</scope>
+    <scope>BOBST</scope>
+    <alttitle>Hamlet. Selections</alttitle>
+    <lsr01>XCD 59072</lsr01>
+    <lsr02>Philips,</lsr02>
+  </search>
+  <sort>
+    <title>Hamlet</title>
+    <creationdate>2000</creationdate>
+    <author>Groscolas, Pierre.</author>
+    <lso01>2000</lso01>
+  </sort>
+  <facets>
+    <language>fre</language>
+    <creationdate>2000</creationdate>
+    <topic>Musicals–Excerpts, Arranged</topic>
+    <collection>BAFC</collection>
+    <toplevel>available</toplevel>
+    <prefilter>audio</prefilter>
+    <creatorcontrib>Groscolas, P</creatorcontrib>
+    <creatorcontrib>Chibaut, G</creatorcontrib>
+    <creatorcontrib>Hallyday, J</creatorcontrib>
+    <creatorcontrib>Yared, G</creatorcontrib>
+    <creatorcontrib>Loubert, R</creatorcontrib>
+    <creatorcontrib>Shakespeare, W</creatorcontrib>
+    <genre>Excerpts, Arranged</genre>
+    <library>BOBST</library>
+    <lfc01>Main Collection</lfc01>
+    <newrecords>20111231_954</newrecords>
+    <frbrgroupid>432670618</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c3>hamlet</c3>
+    <c4>2000</c4>
+    <f5>hamlet</f5>
+    <f6>2000</f6>
+    <f7>hamlet</f7>
+    <f8>fr</f8>
+    <f9>2 sound discs :</f9>
+    <f10>philips</f10>
+    <f11>groscolas pierre</f11>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kgroscolas pierre$$AA</k1>
+    <k3>$$Kaudiohamlet$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYU</institution>
+    <delcategory>Physical Item</delcategory>
+  </delivery>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <aulast>Groscolas</aulast>
+    <aufirst>Pierre.</aufirst>
+    <au>Groscolas, Pierre</au>
+    <addau>Chibaut, Gilles</addau>
+    <addau>Hallyday, Johnny, 1943-</addau>
+    <addau>Yared, Gabriel</addau>
+    <addau>Loubert, Roger</addau>
+    <addau>Shakespeare, William, 1564-1616</addau>
+    <btitle>Hamlet [sound recording]</btitle>
+    <date>2000</date>
+    <risdate>[2000], p1976.</risdate>
+    <format>audio</format>
+    <genre>audio</genre>
+    <ristype>SOUND</ristype>
+    <cop>France</cop>
+    <pub>Philips</pub>
+    <oclcid>61285718</oclcid>
+    <lad01>BAFC</lad01>
+    <lad01>Physical Item</lad01>
+  </addata>
+</record>

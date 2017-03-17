@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>$$V004180635$$Onyu_aleph004180635</sourcerecordid>
+    <sourcerecordid>$$V002073185$$Onyu_aleph002073185</sourcerecordid>
+    <sourcerecordid>$$V002075610$$Onyu_aleph002075610</sourcerecordid>
+    <sourceid>$$Vnyu_aleph$$Onyu_aleph004180635</sourceid>
+    <sourceid>$$Vnyu_aleph$$Onyu_aleph002073185</sourceid>
+    <sourceid>$$Vnyu_aleph$$Onyu_aleph002075610</sourceid>
+    <recordid>dedupmrg372312149</recordid>
+    <originalsourceid>$$VNYU01$$Onyu_aleph004180635</originalsourceid>
+    <originalsourceid>$$VNYU01$$Onyu_aleph002073185</originalsourceid>
+    <originalsourceid>$$VNYU01$$Onyu_aleph002075610</originalsourceid>
+    <sourceformat>$$VMARC21$$Onyu_aleph004180635</sourceformat>
+    <sourceformat>$$VMARC21$$Onyu_aleph002073185</sourceformat>
+    <sourceformat>$$VMARC21$$Onyu_aleph002075610</sourceformat>
+    <sourcesystem>$$VAleph$$Onyu_aleph004180635</sourcesystem>
+    <sourcesystem>$$VAleph$$Onyu_aleph002073185</sourcesystem>
+    <sourcesystem>$$VAleph$$Onyu_aleph002075610</sourcesystem>
+    <ilsapiid>$$VNYU01004180635$$Onyu_aleph004180635</ilsapiid>
+    <ilsapiid>$$VNYU01002073185$$Onyu_aleph002073185</ilsapiid>
+    <ilsapiid>$$VNYU01002075610$$Onyu_aleph002075610</ilsapiid>
+  </control>
+  <display>
+    <type>book</type>
+    <title>Guide to the applications of &lt;span class="searchword">Laplace&lt;/span> transforms</title>
+    <creator>Gustav  Doetsch  1892-</creator>
+    <contributor>Rudolf Herschel</contributor>
+    <publisher>London ; New York : Van Nostrand</publisher>
+    <creationdate>1961</creationdate>
+    <format>255 p. : ill. ; 24 cm.</format>
+    <subject>&lt;span class="searchword">Laplace&lt;/span> transformation; Z transformation</subject>
+    <language>eng</language>
+    <unititle>Anleitung zum praktischen Gebrauch der Laplace-Transformation.</unititle>
+    <source>$$Vnyu_aleph$$Onyu_aleph004180635</source>
+    <source>$$Vnyu_aleph$$Onyu_aleph002073185</source>
+    <source>$$Vnyu_aleph$$Onyu_aleph002075610</source>
+    <availlibrary>$$INYU$$LNDIBN$$1Main Collection$$2(QA432 .D5613 1961 )$$Savailable$$31$$40$$5N$$60$$XNYU50$$YNDIBN$$ZMAIN$$Onyu_aleph004180635</availlibrary>
+    <availlibrary>$$INYU$$LCOUR$$1Main Collection$$2(QA432 .D5613 1961 )$$Savailable$$31$$40$$5N$$61$$XNYU50$$YNCOUR$$ZMAIN$$Onyu_aleph002073185</availlibrary>
+    <availlibrary>$$INYU$$LBOBST$$1Main Collection$$2(QA432 .D5613 1963 )$$Sunavailable$$31$$41$$5N$$60$$XNYU50$$YBOBST$$ZMAIN$$Onyu_aleph002075610</availlibrary>
+    <availinstitution>$$INYU$$Savailable</availinstitution>
+    <availpnx>available</availpnx>
+    <lds01>NYU</lds01>
+    <lds02>nyu_aleph004180635</lds02>
+    <lds02>nyu_aleph002073185</lds02>
+    <lds02>nyu_aleph002075610</lds02>
+    <snippetfield>creatorcontrib</snippetfield>
+    <snippetfield>general</snippetfield>
+    <snippet>Gustav Doetsch ; with 45 figures and a table of &lt;span class="searchword">Laplace&lt;/span> transforms by Rudolf Herschel ; translation editor: W. McA. Fairbairn.... "Translated from the completely revised and enlarged second edition of Anleitung zum praktischen Gebrauch der &lt;span class="searchword">Laplace&lt;/span>-Transformation."</snippet>
+  </display>
+  <links>
+    <linktoholdings>$$V$$Taleph_holdings$$Onyu_aleph004180635</linktoholdings>
+    <linktoholdings>$$V$$Taleph_holdings$$Onyu_aleph002073185</linktoholdings>
+    <linktoholdings>$$V$$Taleph_holdings$$Onyu_aleph002075610</linktoholdings>
+    <backlink>$$V$$Taleph_backlink$$DMore bibliographic information$$Onyu_aleph004180635</backlink>
+    <backlink>$$V$$Taleph_backlink$$DMore bibliographic information$$Onyu_aleph002073185</backlink>
+    <backlink>$$V$$Taleph_backlink$$DMore bibliographic information$$Onyu_aleph002075610</backlink>
+    <openurl>$$V$$Topenurl_journal$$Onyu_aleph004180635</openurl>
+    <openurl>$$V$$Topenurl_journal$$Onyu_aleph002073185</openurl>
+    <openurl>$$V$$Topenurl_journal$$Onyu_aleph002075610</openurl>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$Onyu_aleph004180635</openurlfulltext>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$Onyu_aleph002073185</openurlfulltext>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$Onyu_aleph002075610</openurlfulltext>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktouc>$$Tworldcat_oclc$$DCheck other libraries (WorldCat®)</linktouc>
+  </links>
+  <search>
+    <creatorcontrib>Gustav Doetsch ; with 45 figures and a table of Laplace transforms by Rudolf Herschel ; translation editor: W. McA. Fairbairn.</creatorcontrib>
+    <creatorcontrib>Rudolf.  Herschel</creatorcontrib>
+    <creatorcontrib>Herschel, R</creatorcontrib>
+    <creatorcontrib>Herschel, R. (Rudolf)</creatorcontrib>
+    <title>Guide to the applications of &lt;span class="searchword">Laplace&lt;/span> transforms /</title>
+    <general>Van Nostrand,</general>
+    <general>Translation of: Anleitung zum praktischen Gebrauch der Laplace-Transformation.</general>
+    <general>19865569</general>
+    <recordid>nyu_aleph004180635</recordid>
+    <searchscope>NDIBN</searchscope>
+    <searchscope>NDIBN Main Collection</searchscope>
+    <scope>NDIBN</scope>
+    <scope>NDIBN Main Collection</scope>
+    <lsr02>Van Nostrand,</lsr02>
+    <creatorcontrib>Gustav,  Doetsch  1892-</creatorcontrib>
+    <creatorcontrib>Doetsch, Gustav, 1892-</creatorcontrib>
+    <creatorcontrib>Doetsch, G</creatorcontrib>
+    <creatorcontrib>With 45 figures and a table of Laplace transforms by Rudolf Herschel. Translation editor: W. McA. Fairbairn.</creatorcontrib>
+    <title>Guide to the applications of &lt;span class="searchword">Laplace&lt;/span> transforms.</title>
+    <subject>Laplace transformation</subject>
+    <subject>Z transformation</subject>
+    <subject>Transformation, Laplace</subject>
+    <subject>Transformation, Z</subject>
+    <general>Van Nostrand</general>
+    <general>"Translated from the completely revised and enlarged second edition of Anleitung zum praktischen Gebrauch der Laplace-Transformation."</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph002073185</recordid>
+    <rsrctype>book</rsrctype>
+    <creationdate>1963</creationdate>
+    <creationdate>1961</creationdate>
+    <searchscope>NCOUR</searchscope>
+    <searchscope>NCOUR Main Collection</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYU</searchscope>
+    <searchscope>COUR</searchscope>
+    <scope>NCOUR</scope>
+    <scope>NCOUR Main Collection</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYU</scope>
+    <scope>COUR</scope>
+    <alttitle>Anleitung zum praktischen Gebrauch der Laplace-Transformation. English</alttitle>
+    <lsr01>QA432 .D5613 1961</lsr01>
+    <lsr01>QA432.D5613 1961</lsr01>
+    <lsr02>Van Nostrand</lsr02>
+    <recordid>nyu_aleph002075610</recordid>
+    <searchscope>BOBST</searchscope>
+    <searchscope>BOBST Main Collection</searchscope>
+    <scope>BOBST</scope>
+    <scope>BOBST Main Collection</scope>
+    <lsr01>QA432 .D5613 1963</lsr01>
+    <lsr01>QA432.D5613 1963</lsr01>
+  </search>
+  <sort>
+    <title>Guide to the applications of Laplace transforms /</title>
+    <creationdate>1961</creationdate>
+    <author>Doetsch, Gustav, 1892-</author>
+    <lso01>1961</lso01>
+  </sort>
+  <facets>
+    <creationdate>1961</creationdate>
+    <creatorcontrib>Herschel, R</creatorcontrib>
+    <library>NDIBN</library>
+    <newrecords>20150909_15</newrecords>
+    <language>eng</language>
+    <creationdate>1963</creationdate>
+    <topic>Laplace transformation</topic>
+    <topic>Z transformation</topic>
+    <collection>NCOUR</collection>
+    <toplevel>available</toplevel>
+    <prefilter>books</prefilter>
+    <rsrctype>books</rsrctype>
+    <creatorcontrib>Doetsch, G</creatorcontrib>
+    <library>COUR</library>
+    <lfc01>Main Collection</lfc01>
+    <newrecords>20111231_939</newrecords>
+    <classificationlcc>Q - Science.–Mathematics–Analysis</classificationlcc>
+    <language>ger</language>
+    <collection>BOBST</collection>
+    <library>BOBST</library>
+    <newrecords>20111231_337</newrecords>
+    <frbrgroupid>431659127</frbrgroupid>
+    <frbrtype>5</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c3>guidetotheapplicatiotransforms</c3>
+    <c4>1961</c4>
+    <f5>guidetotheapplicatiotransforms</f5>
+    <f6>1961</f6>
+    <f7>guide to the applications of laplace transforms</f7>
+    <f8>enk</f8>
+    <f9>255 p. :</f9>
+    <f10>van nostrand</f10>
+    <f11>doetsch gustav 1892</f11>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Kdoetsch gustav 1892$$AA</k1>
+    <k3>$$Kbookanleitung zum praktischen gebrauch der laplace transformation$$AT</k3>
+    <k3>$$Kbookguide to the applications of laplace transforms$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>$$VNYU$$Onyu_aleph004180635</institution>
+    <delcategory>$$VPhysical Item$$Onyu_aleph004180635</delcategory>
+    <institution>$$VNYU$$Onyu_aleph002073185</institution>
+    <delcategory>$$VPhysical Item$$Onyu_aleph002073185</delcategory>
+    <institution>$$VNYU$$Onyu_aleph002075610</institution>
+    <delcategory>$$VPhysical Item$$Onyu_aleph002075610</delcategory>
+  </delivery>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <addau>Herschel, Rudolf</addau>
+    <btitle>Guide to the applications of Laplace transforms</btitle>
+    <date>1961</date>
+    <risdate>1961.</risdate>
+    <cop>London %3B New York</cop>
+    <oclcid>19865569</oclcid>
+    <lad01>NDIBN</lad01>
+    <aulast>Doetsch</aulast>
+    <aufirst>Gustav,</aufirst>
+    <au>Doetsch, Gustav, 1892-</au>
+    <btitle>Guide to the applications of Laplace transforms.</btitle>
+    <date>1963</date>
+    <risdate>[1963, c1961]</risdate>
+    <format>book</format>
+    <genre>book</genre>
+    <ristype>BOOK</ristype>
+    <cop>London, New York</cop>
+    <pub>Van Nostrand</pub>
+    <lccn>63002830</lccn>
+    <lad01>NCOUR</lad01>
+    <lad01>Physical Item</lad01>
+    <lad01>BOBST</lad01>
+  </addata>
+  <browse/>
+</record>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>$$V003136174$$Onyu_aleph003136174</sourcerecordid>
+    <sourcerecordid>$$V000257752$$OCOURSES000257752</sourcerecordid>
+    <sourcerecordid>$$V000317266$$OCOURSES000317266</sourcerecordid>
+    <sourceid>$$Vnyu_aleph$$Onyu_aleph003136174</sourceid>
+    <sourceid>$$VCOURSES$$OCOURSES000257752</sourceid>
+    <sourceid>$$VCOURSES$$OCOURSES000317266</sourceid>
+    <recordid>dedupmrg370680883</recordid>
+    <originalsourceid>$$VNYU01$$Onyu_aleph003136174</originalsourceid>
+    <originalsourceid>$$VNYU30$$OCOURSES000257752</originalsourceid>
+    <originalsourceid>$$VNYU30$$OCOURSES000317266</originalsourceid>
+    <sourceformat>$$VMARC21$$Onyu_aleph003136174</sourceformat>
+    <sourceformat>$$VMARC21$$OCOURSES000257752</sourceformat>
+    <sourceformat>$$VMARC21$$OCOURSES000317266</sourceformat>
+    <sourcesystem>$$VAleph$$Onyu_aleph003136174</sourcesystem>
+    <sourcesystem>$$VAleph$$OCOURSES000257752</sourcesystem>
+    <sourcesystem>$$VAleph$$OCOURSES000317266</sourcesystem>
+    <ilsapiid>$$VNYU01003136174$$Onyu_aleph003136174</ilsapiid>
+    <ilsapiid>$$VNYU30000257752$$OCOURSES000257752</ilsapiid>
+    <ilsapiid>$$VNYU30000317266$$OCOURSES000317266</ilsapiid>
+  </control>
+  <display>
+    <type>book</type>
+    <title>The origins of totalitarianism</title>
+    <creator>&lt;span class="searchword">Hannah&lt;/span>  &lt;span class="searchword">Arendt&lt;/span>  1906-1975.</creator>
+    <edition>1st ed.</edition>
+    <publisher>New York : Schocken Books</publisher>
+    <creationdate>c2004</creationdate>
+    <format>xxvii, 674 p. ; 25 cm.</format>
+    <identifier>$$Cisbn$$V0805242252; $$Cisbn$$V9780805242256</identifier>
+    <subject>Totalitarianism; Imperialism; Antisemitism</subject>
+    <description>$$Ccontents$$VAntisemitism as an outrage to common sense -- The Jews, the nation-state, and the birth of antisemitism -- The Jews and society -- The Dreyfus Affair -- The political emancipation of the bourgeoisie -- Race-thinking before racism -- Race and bureaucracy -- Continental imperialism : the pan-movements -- The decline of the nation-state and the end of the rights of man -- A classless society -- The totalitarian movement -- Totalitarianism in power -- Ideology and terror : a novel form of government.</description>
+    <language>eng</language>
+    <source>$$Vnyu_aleph$$Onyu_aleph003136174</source>
+    <source>$$VCOURSES$$OCOURSES000257752</source>
+    <source>$$VCOURSES$$OCOURSES000317266</source>
+    <availlibrary>$$INYUSH$$LNSHNG$$1Main Collection$$2(JC480 .A74 2004 )$$Savailable$$31$$40$$5N$$61$$XNYU52$$YNSHNG$$ZMAIN$$Onyu_aleph003136174</availlibrary>
+    <availlibrary>$$INYU$$LBRES$$1Reserve Collection$$2(JC480 .A74 2004 )$$Savailable$$31$$40$$5N$$60$$XNYU50$$YBRES$$ZBRES$$Onyu_aleph003136174</availlibrary>
+    <availlibrary>$$INS$$LNSFO$$1Main Collection$$2(JC480 .A74 2004 )$$Sunavailable$$31$$41$$5N$$615$$XNYU50$$YTNSFO$$ZMAIN$$Onyu_aleph003136174</availlibrary>
+    <availinstitution>$$INS$$Sunavailable</availinstitution>
+    <availinstitution>$$INYU$$Savailable</availinstitution>
+    <availinstitution>$$INYUSH$$Savailable</availinstitution>
+    <availpnx>available</availpnx>
+    <lds01>NYUSH</lds01>
+    <lds01>NYU</lds01>
+    <lds01>NS</lds01>
+    <lds01>LSOC.2041.A TNSFO -- Global Critical Race Theory.A.Sp15 -- Onasch, Elizabeth -- Spring -- TNSFO Lang Sociology</lds01>
+    <lds01>MUSIC-GA2198.3 -- Special Studies -- Cohen, Brigid -- Spring -- Music (FAS)</lds01>
+    <lds02>nyu_aleph003136174</lds02>
+    <lds02>COURSES000257752</lds02>
+    <lds02>COURSES000317266</lds02>
+    <lds03>LSOC.2041.A FO -- Global Critical Race Theory.A.Sp15 -- Onasch, Elizabeth</lds03>
+    <lds03>MUSIC-GA2198.3 -- Special Studies -- Cohen, Brigid</lds03>
+  </display>
+  <links>
+    <linktoholdings>$$V$$Taleph_holdings$$Onyu_aleph003136174</linktoholdings>
+    <linktoholdings>$$V$$Treserves_holdings$$OCOURSES000257752</linktoholdings>
+    <linktoholdings>$$V$$Treserves_holdings$$OCOURSES000317266</linktoholdings>
+    <backlink>$$V$$Taleph_backlink$$DMore bibliographic information$$Onyu_aleph003136174</backlink>
+    <openurl>$$V$$Topenurl_journal$$Onyu_aleph003136174</openurl>
+    <openurl>$$V$$Topenurl_journal$$OCOURSES000257752</openurl>
+    <openurl>$$V$$Topenurl_journal$$OCOURSES000317266</openurl>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$Onyu_aleph003136174</openurlfulltext>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$OCOURSES000257752</openurlfulltext>
+    <openurlfulltext>$$V$$Topenurlfull_journal$$OCOURSES000317266</openurlfulltext>
+    <linktotoc>$$Tamazon_toc$$DCheck for Amazon Search Inside</linktotoc>
+    <linktotoc>$$Tamazon_toc$$DTable of Contents</linktotoc>
+    <linktoexcerpt>$$Tsyndetics_excerpt$$DExcerpt from item</linktoexcerpt>
+    <linktoabstract>$$Tsyndetics_abstract$$DAbstract</linktoabstract>
+    <linktoreview>$$TpersistentUrl$$DCopy item link</linktoreview>
+    <linktoreview>$$TpersistentUrl$$DClick here for a persistent link</linktoreview>
+    <linktouc>$$Tamazon_uc$$DCheck Amazon</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DCheck other libraries (WorldCat®)</linktouc>
+    <linktouc>$$Tamazon_uc$$DThis item in Amazon.com</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DThis item in WorldCat®</linktouc>
+    <linktouc>$$Tamazon_uc$$DThis item in Amazon.com</linktouc>
+    <linktouc>$$Tworldcat_isbn$$DThis item in WorldCat®</linktouc>
+    <thumbnail>$$Tamazon_thumb</thumbnail>
+  </links>
+  <search>
+    <creatorcontrib>Hannah,  Arendt  1906-1975.</creatorcontrib>
+    <creatorcontrib>Arendt, Hannah, 1906-1975.</creatorcontrib>
+    <creatorcontrib>ארנדט, חנה</creatorcontrib>
+    <creatorcontrib>Arendt, Khanna, 1906-1975</creatorcontrib>
+    <creatorcontrib>Arento, Hanna, 1906-1975</creatorcontrib>
+    <creatorcontrib>Blücher, Hannah Arendt, 1906-1975</creatorcontrib>
+    <creatorcontrib>Bluecher, Hannah Arendt, 1906-1975</creatorcontrib>
+    <creatorcontrib>Arendt, H. (Hannah), 1906-1975</creatorcontrib>
+    <subject>Totalitarianism</subject>
+    <subject>Imperialism</subject>
+    <subject>Antisemitism</subject>
+    <subject>Colonialism</subject>
+    <subject>Empires</subject>
+    <subject>Neocolonialism</subject>
+    <subject>Expansion (United States politics)</subject>
+    <subject>Totalitarian state</subject>
+    <subject>Anti-Jewish attitudes</subject>
+    <subject>Anti-Semitism</subject>
+    <general>Schocken Books,</general>
+    <general>Originally published: 1st ed. New York : Harcourt, Brace, [1951].</general>
+    <general>52814049</general>
+    <sourceid>nyu_aleph</sourceid>
+    <recordid>nyu_aleph003136174</recordid>
+    <toc>Antisemitism as an outrage to common sense -- The Jews, the nation-state, and the birth of antisemitism -- The Jews and society -- The Dreyfus Affair -- The political emancipation of the bourgeoisie -- Race-thinking before racism -- Race and bureaucracy -- Continental imperialism : the pan-movements -- The decline of the nation-state and the end of the rights of man -- A classless society -- The totalitarian movement -- Totalitarianism in power -- Ideology and terror : a novel form of government.</toc>
+    <searchscope>NSHNG</searchscope>
+    <searchscope>NSHNG Main Collection</searchscope>
+    <searchscope>BRES</searchscope>
+    <searchscope>BRES Reserve Collection</searchscope>
+    <searchscope>TNSFO</searchscope>
+    <searchscope>TNSFO Main Collection</searchscope>
+    <searchscope>nyu_aleph</searchscope>
+    <searchscope>NYUSH</searchscope>
+    <searchscope>NYU</searchscope>
+    <searchscope>NS</searchscope>
+    <searchscope>BOBST</searchscope>
+    <searchscope>NSFO</searchscope>
+    <scope>NSHNG</scope>
+    <scope>NSHNG Main Collection</scope>
+    <scope>BRES</scope>
+    <scope>BRES Reserve Collection</scope>
+    <scope>TNSFO</scope>
+    <scope>TNSFO Main Collection</scope>
+    <scope>nyu_aleph</scope>
+    <scope>NYUSH</scope>
+    <scope>NYU</scope>
+    <scope>NS</scope>
+    <scope>BOBST</scope>
+    <scope>NSFO</scope>
+    <lsr01>JC480 .A74 2004</lsr01>
+    <lsr01>JC480.A74 2004</lsr01>
+    <lsr10>0805242252</lsr10>
+    <lsr10>9780805242256</lsr10>
+    <creatorcontrib>Hannah,  Arendt</creatorcontrib>
+    <creatorcontrib>Arendt, H</creatorcontrib>
+    <creatorcontrib>Hannah Arendt ; intoduction by Samantha Power.</creatorcontrib>
+    <title>The origins of totalitarianism /</title>
+    <subject>Totalitarianism.</subject>
+    <subject>Imperialism.</subject>
+    <subject>Antisemitism.</subject>
+    <sourceid>COURSES</sourceid>
+    <recordid>COURSES000257752</recordid>
+    <isbn>0805242252</isbn>
+    <isbn>9780805242256</isbn>
+    <toc>LSOC.2041.A TNSFO - Global Critical Race Theory.A.Sp15 - Onasch, Elizabeth</toc>
+    <toc>LSOC.2041.A TNSFO Global Critical Race Theory.A.Sp15 Onasch, Elizabeth Spring TNSFO Lang Sociology</toc>
+    <rsrctype>book</rsrctype>
+    <creationdate>2004</creationdate>
+    <creationdate>1951</creationdate>
+    <searchscope>TNSCR</searchscope>
+    <searchscope>COURSES</searchscope>
+    <scope>TNSCR</scope>
+    <scope>COURSES</scope>
+    <lsr02>Schocken Books,</lsr02>
+    <lsr03>Global Critical Race Theory.A.Sp15</lsr03>
+    <lsr04>Onasch, Elizabeth</lsr04>
+    <recordid>COURSES000317266</recordid>
+    <toc>MUSIC-GA2198.3 BOBST - Special Studies - Cohen, Brigid</toc>
+    <toc>MUSIC-GA2198.3 BOBST Special Studies Cohen, Brigid Spring Music (FAS)</toc>
+    <searchscope>BOBSTCR</searchscope>
+    <scope>BOBSTCR</scope>
+    <lsr03>Special Studies</lsr03>
+    <lsr04>Cohen, Brigid</lsr04>
+  </search>
+  <sort>
+    <title>origins of totalitarianism /</title>
+    <creationdate>2004</creationdate>
+    <author>Arendt, Hannah, 1906-1975.</author>
+    <lso01>2004</lso01>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <collection>BRES</collection>
+    <collection>TNSFO</collection>
+    <toplevel>available</toplevel>
+    <library>NYUSH</library>
+    <library>BOBST</library>
+    <library>NSFO</library>
+    <lfc01>Main Collection</lfc01>
+    <lfc01>Reserve Collection</lfc01>
+    <newrecords>20111231_201</newrecords>
+    <classificationlcc>J - Political science.–Political theory. The state. Theories of the state–Forms of the state</classificationlcc>
+    <creationdate>2004</creationdate>
+    <topic>Totalitarianism</topic>
+    <topic>Imperialism</topic>
+    <topic>Antisemitism</topic>
+    <prefilter>books</prefilter>
+    <rsrctype>books</rsrctype>
+    <creatorcontrib>Arendt, H</creatorcontrib>
+    <lfc02>LSOC.2041.A</lfc02>
+    <lfc03>Onasch, Elizabeth</lfc03>
+    <lfc05>Onasch, Elizabeth</lfc05>
+    <lfc06>Global Critical Race Theory.A.Sp15</lfc06>
+    <newrecords>20150205_309</newrecords>
+    <lfc02>MUSIC-GA2198.3</lfc02>
+    <lfc03>Cohen, Brigid</lfc03>
+    <lfc05>Cohen, Brigid</lfc05>
+    <lfc06>Special Studies</lfc06>
+    <newrecords>20170228_165</newrecords>
+    <frbrgroupid>45810447</frbrgroupid>
+    <frbrtype>5</frbrtype>
+  </facets>
+  <dedup>
+    <t>1</t>
+    <c1>2003060749</c1>
+    <c2>0805242252;9780805242256</c2>
+    <c3>originsoftotalitarianism</c3>
+    <c4>2004</c4>
+    <f1>2003060749</f1>
+    <f3>0805242252;9780805242256</f3>
+    <f5>originsoftotalitarianism</f5>
+    <f6>2004</f6>
+    <f7>origins of totalitarianism</f7>
+    <f8>nyu</f8>
+    <f9>xxvii, 674 p. ;</f9>
+    <f10>schocken books</f10>
+    <f11>arendt hannah 1906 1975</f11>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k1>$$Karendt hannah 1906 1975$$AA</k1>
+    <k3>$$Kbookorigins of totalitarianism$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>$$VNYUSH$$Onyu_aleph003136174</institution>
+    <institution>$$VNYU$$Onyu_aleph003136174</institution>
+    <institution>$$VNS$$Onyu_aleph003136174</institution>
+    <delcategory>$$VPhysical Item$$Onyu_aleph003136174</delcategory>
+    <delcategory>$$VPhysical Item$$OCOURSES000257752</delcategory>
+    <delcategory>$$VPhysical Item$$OCOURSES000317266</delcategory>
+  </delivery>
+  <enrichment>
+    <classificationlcc>JC480</classificationlcc>
+  </enrichment>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <lad01>TNSFOBOBSTNSHNG</lad01>
+    <aulast>Arendt</aulast>
+    <aufirst>Hannah,</aufirst>
+    <au>Arendt, Hannah, 1906-1975</au>
+    <btitle>The origins of totalitarianism</btitle>
+    <date>2004</date>
+    <risdate>c2004.</risdate>
+    <isbn>0805242252</isbn>
+    <isbn>9780805242256</isbn>
+    <format>book</format>
+    <genre>book</genre>
+    <ristype>BOOK</ristype>
+    <notes>Includes bibliographical references (p. 633-656) and index.</notes>
+    <cop>New York</cop>
+    <pub>Schocken Books</pub>
+    <oclcid>52814049</oclcid>
+    <lccn>2003060749</lccn>
+    <lad01>Physical Item</lad01>
+    <lad02>003136174</lad02>
+  </addata>
+  <browse/>
+</record>

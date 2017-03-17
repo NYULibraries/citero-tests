@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib" xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search">
+  <control>
+    <sourcerecordid>2670000000172785</sourcerecordid>
+    <sourceid>NYUMARCIT</sourceid>
+    <recordid>NYUMARCIT2670000000172785</recordid>
+    <sourceformat>MARC21</sourceformat>
+    <sourcesystem>SFX</sourcesystem>
+  </control>
+  <display>
+    <type>e_journal</type>
+    <title>&lt;span class="searchword">NYTimes&lt;/span>.com Feed</title>
+    <language>eng</language>
+    <source>NYUMARCIT</source>
+    <availlibrary>$$INYU$$LBWEB$$1Internet Resources$$Savailable$$9ONLINE</availlibrary>
+    <lds02>NYUMARCIT2670000000172785</lds02>
+    <availpnx>available</availpnx>
+  </display>
+  <links>
+    <openurl>$$Topenurl_marcit</openurl>
+    <linktorsrc><![CDATA[$$Uhttps://getit.library.nyu.edu/nyu/resolve?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=2670000000172785&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&$$DNYU Restricted Internet Resource]]></linktorsrc>
+    <openurlfulltext>$$Topenurlfull_journal</openurlfulltext>
+  </links>
+  <search>
+    <title>&lt;span class="searchword">NYTimes&lt;/span>.com Feed</title>
+    <sourceid>NYUMARCIT</sourceid>
+    <recordid>NYUMARCIT2670000000172785</recordid>
+    <rsrctype>journal</rsrctype>
+    <startdate>00000101</startdate>
+    <enddate>99991231</enddate>
+    <addtitle>NYTimes.com Feed</addtitle>
+    <searchscope>NYUMARCIT</searchscope>
+    <searchscope>BWEB</searchscope>
+    <scope>NYUMARCIT</scope>
+    <scope>BWEB</scope>
+  </search>
+  <sort>
+    <title>NYTimes.com Feed</title>
+  </sort>
+  <facets>
+    <language>eng</language>
+    <toplevel>online_resources</toplevel>
+    <prefilter>journals</prefilter>
+    <rsrctype>journals</rsrctype>
+    <newrecords>20170110_225</newrecords>
+    <frbrgroupid>443152647</frbrgroupid>
+    <frbrtype>6</frbrtype>
+  </facets>
+  <dedup>
+    <t>2</t>
+    <c3>nytimescomfeed</c3>
+    <f7>nytimes com feed</f7>
+    <f8>nytimes com feed</f8>
+  </dedup>
+  <frbr>
+    <t>1</t>
+    <k3>$$Knytimes com feed$$AT</k3>
+  </frbr>
+  <delivery>
+    <institution>NYU</institution>
+    <institution>NYUAD</institution>
+    <institution>NYUSH</institution>
+    <delcategory>SFX Resource</delcategory>
+  </delivery>
+  <ranking>
+    <booster1>1</booster1>
+    <booster2>1</booster2>
+  </ranking>
+  <addata>
+    <btitle>NYTimes.com Feed</btitle>
+    <jtitle>NYTimes.com Feed</jtitle>
+    <format>journal</format>
+    <genre>journal</genre>
+    <ristype>journal</ristype>
+    <objectid>2670000000172785</objectid>
+  </addata>
+  <browse>
+    <title>$$DNYTimes.com Feed$$ENYTimes.com Feed</title>
+    <callnumber>$$INYU</callnumber>
+    <institution>NYU</institution>
+    <institution>NYUAD</institution>
+    <institution>NYUSH</institution>
+  </browse>
+</record>
