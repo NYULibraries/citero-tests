@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    citero-jruby (2.1.8)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  citero-jruby
+
+BUNDLED WITH
+   1.14.3
