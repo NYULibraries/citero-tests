@@ -1,22 +1,17 @@
 itemType:audioRecording
-author:Wolfgang Amadeus  Mozart  1756-1791\.
+author:Wolfgang Amadeus  Mozart  1756-1791.
 contributor:Pentaèdre (Musical group)
+issn:2
 publisher:Atma classique
-place:Outremont\, Québec]
-numPages:1
-issn:22545
-title:Cosi [sound recording]
+place:Outremont, Québec]
 publicationDate:2007
-date:p2007
-date:2007
-date:2006
-tags:Wind quintets (Bassoon\, clarinet\, flute\, horn\, oboe)\, Arranged
-tags:Operas  Excerpts\, Arranged
-tags:Operas\, Arranged Excerpts
-tags:Wind quintets (Bassoon\, clarinet\, flute\, horn\, oboe)\, Arranged; Operas -- Excerpts\, Arranged
 callNumber:CD CLASS MOZ
 pnxRecordId:nyu_aleph003647018
-description:1 sound disc : digital ; 4 3/4 in\.
-notes:$$Ccontents$$VOuvertura -- Act 1\. La mia Dorabella capace non è ; Una bella serenata ; Ah\, guarda\, sorella ; Sento\, o Dio\, che questo piede ; Bella vita militar! ; Soave sia il vento ; In uomini\, in soldati sperare fedeltà? ; Alla bella Despinetta ; Come scoglio immoto resta ; Non siate ritrosi ; Un'aura amorosa del nostro tesoro ; Finale I: Ah\, que tutta in un momento -- Act 2\. Una donna a quindici anni ; Prenderò quel brunettino ; Secondate\, aurette amiche ; La mano a me date ; Ah\, la veggio: quell'anima bella ; Per pietà\, ben mio\, perdona ; Tradito\, schernito dal perfido cor ; È amore un ladroncello ; Finale II: Benedetti i doppi conjugi\.
-notes:$$Ccredits$$VPentaedre: Danièle Bourget\, flute; Normand Forget\, oboe; Martin Carpentier\, clarinet; Louis-Philippe Marsolais\, horn; Mathieu Lussier\, bassoon\.
-importedFrom:PNX
+title:Cosi [sound recording]
+date:p2007
+tags:Wind quintets (Bassoon, clarinet, flute, horn, oboe), Arranged
+tags:Operas  Excerpts, Arranged
+tags:Operas, Arranged Excerpts
+description:1 sound disc : digital ; 4 3/4 in.
+notes:$$Ccontents$$VOuvertura -- Act 1. La mia Dorabella capace non è ; Una bella serenata ; Ah, guarda, sorella ; Sento, o Dio, che questo piede ; Bella vita militar! ; Soave sia il vento ; In uomini, in soldati sperare fedeltà? ; Alla bella Despinetta ; Come scoglio immoto resta ; Non siate ritrosi ; Un'aura amorosa del nostro tesoro ; Finale I: Ah, que tutta in un momento -- Act 2. Una donna a quindici anni ; Prenderò quel brunettino ; Secondate, aurette amiche ; La mano a me date ; Ah, la veggio: quell'anima bella ; Per pietà, ben mio, perdona ; Tradito, schernito dal perfido cor ; È amore un ladroncello ; Finale II: Benedetti i doppi conjugi.
+numPages:1

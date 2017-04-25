@@ -4,23 +4,35 @@ author:Jill Clarke
 author:Irene Tejaratchi
 author:Bill Murphy
 author:Fred Kaufman
-author:F\. Murray Abraham
+author:F. Murray Abraham
 author:Jennie Muskett
 author:Martyn Colbeck
-author:WNET (Television station : New York\, N\.Y\.)
-author:British Broadcasting Corporation\.
-author:Educational Broadcasting Corporation\.
-author:Questar\, Inc\.
-publisher:Questar
-place:Chicago\, IL
-numPages:1
+author:WNET (Television station : New York, N.Y.)
+author:British Broadcasting Corporation.
+author:Educational Broadcasting Corporation.
+author:Questar, Inc.
+contributor:Mark Fletcher
+contributor:Jill Clarke
+contributor:Irene Tejaratchi
+contributor:Bill Murphy
+contributor:Fred Kaufman
+contributor:F. Murray Abraham
+contributor:Jennie Muskett
+contributor:Martyn Colbeck
+contributor:WNET (Television station : New York, N.Y.)
+contributor:British Broadcasting Corporation.
+contributor:Educational Broadcasting Corporation.
+contributor:Questar, Inc.
 isbn:9781594644436
 isbn:1594644438
 issn:3834
-title:Clever <span class="searchword">monkeys</span> [videorecording]
+publisher:Questar
+place:Chicago, IL
 publicationDate:2008
+callNumber:QL737.P9
+pnxRecordId:nyu_aleph003739735
+title:Clever <span class="searchword">monkeys</span> [videorecording]
 date:c2008
-date:2008
 language:eng
 tags:Monkeys  Behavior
 tags:Social behavior in animals
@@ -37,12 +49,6 @@ tags:Animal language
 tags:Language learning by animals
 tags:Communication among animals
 tags:Haplorhini
-tags:<span class="searchword">Monkeys</span> -- Behavior; Social behavior in animals; Learning in animals; Animal communication; Wildlife television programs; Nature television programs; Science television programs; Educational television programs; Nonfiction television programs; Video recordings for the hearing impaired
-callNumber:QL737\.P9
-pnxRecordId:nyu_aleph003739735
-description:1 videodisc (57 min\.) : sd\.\, col\. ; 4 3/4 in\.
-notes:$$Ccontents$$VJust like us -- Monkey society -- Learning to survive -- Clues to our past -- An emotional attachment -- Machiavellian intelligence\.
-notes:$$C  summary$$V  "NATURE travels around the world to capture never-before-seen monkey behavior that challenges many ideas about what is purely 'human' \.\.\. Immerses viewers in monkey culture to reveal how and what <span class="searchword">monkeys</span> teach their young\, and how they communicate with each other"--Container\.
-notes:$$Ccredits$$VNarrated by F\. Murray Abraham ; photography\, Martyn Colbeck \.\.\. [et al\.] ; composed music by Jennie Muskett\.
-notes:$$Ccredits$$VNarrator: F\. Murray Abraham\.
-importedFrom:PNX
+description:1 videodisc (57 min.) : sd., col. ; 4 3/4 in.
+notes:$$Ccontents$$VJust like us -- Monkey society -- Learning to survive -- Clues to our past -- An emotional attachment -- Machiavellian intelligence.
+numPages:1

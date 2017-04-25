@@ -3,20 +3,14 @@ author:Gustav  Doetsch  1892-
 contributor:Rudolf Herschel
 publisher:Van Nostrand
 place:London %3B New York
-place:London\, New York
-numPages:255
-title:Guide to the applications of <span class="searchword">Laplace</span> transforms
 publicationDate:1961
-publicationDate:1963
-date:1961
-date:1963
+pnxRecordId:dedupmrg372312149
+title:Guide to the applications of <span class="searchword">Laplace</span> transforms
 date:1961
 language:eng
 tags:Laplace transformation
 tags:Z transformation
-tags:Transformation\, Laplace
-tags:Transformation\, Z
-tags:<span class="searchword">Laplace</span> transformation; Z transformation
-pnxRecordId:dedupmrg372312149
-description:255 p\. : ill\. ; 24 cm\.
-importedFrom:PNX
+tags:Transformation, Laplace
+tags:Transformation, Z
+description:255 p. : ill. ; 24 cm.
+numPages:255

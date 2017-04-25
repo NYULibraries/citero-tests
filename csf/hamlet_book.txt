@@ -1,32 +1,25 @@
 itemType:book
-author:William  Shakespeare  1564-1616\.
+author:William  Shakespeare  1564-1616.
 contributor:Burton Raffel
 contributor:Harold Bloom
 publisher:Yale University Press
 place:New Haven
-numPages:249
-eissn:0300101759 9780300101751
-isbn:9780300138238
-isbn:0300138237
-isbn:0300101759
-isbn:9780300101751
-isbn:0300101058
-isbn:9780300101058
-title:<span class="searchword">Hamlet</span>
 publicationDate:2003
+callNumber:PR2807.A2
+pnxRecordId:dedupmrg266124821
+title:<span class="searchword">Hamlet</span>
 date:c2003
-date:2003
 language:eng
 tags:Hamlet (Legendary character)  Drama
 tags:Ophelia (Fictitious character)  Drama
-tags:Gertrude\, Queen of Denmark (Fictitious character)
+tags:Gertrude, Queen of Denmark (Fictitious character)
 tags:Hamlet (Legendary character)
 tags:Ophelia (Fictitious character)
-tags:Claudius\, King of Denmark (Fictitious character)  Drama
+tags:Claudius, King of Denmark (Fictitious character)  Drama
 tags:Polonius (Fictitious character : Shakespeare)  Drama
 tags:Horatio (Fictitious character : Shakespeare)  Drama
 tags:Laertes (Fictitious character : Shakespeare)  Drama
-tags:Gertrude\, Queen of Denmark (Fictitious character)  Drama
+tags:Gertrude, Queen of Denmark (Fictitious character)  Drama
 tags:Princes  Denmark Drama
 tags:Murder victims' families  Drama
 tags:Regicide  Drama
@@ -37,7 +30,7 @@ tags:Murder victims'' families  Drama
 tags:Princes  Drama
 tags:LITERARY CRITICISM  Shakespeare
 tags:DRAMA  Shakespeare
-tags:Claudius\, King of Denmark (Fictitious character)
+tags:Claudius, King of Denmark (Fictitious character)
 tags:Fathers  Death
 tags:Horatio (Fictitious character : Shakespeare)
 tags:Laertes (Fictitious character : Shakespeare)
@@ -50,7 +43,7 @@ tags:Denmark
 tags:Electronic books
 tags:Tragedies (Drama)
 tags:Drama
-tags:Shakespeare\, William
+tags:Shakespeare, William
 tags:Hamlet
 tags:Amleth (Legendary character)
 tags:Claudius (Fictitious character : Updike)
@@ -70,8 +63,5 @@ tags:Denmaakʻŭ
 tags:Ebooks
 tags:E-books
 tags:Online books
-tags:<span class="searchword">Hamlet</span> (Legendary character) -- Drama; Murder victims' families -- Drama; Fathers -- Death -- Drama; Princes -- Drama; Revenge -- Drama; Denmark -- Drama; Electronic books
-callNumber:PR2807\.A2
-pnxRecordId:dedupmrg266124821
-description:xxxi\, 249 p\.
-importedFrom:PNX
+description:xxxi, 249 p.
+numPages:249

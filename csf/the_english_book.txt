@@ -1,16 +1,16 @@
 itemType:book
-author:G\. R\.  Elton  (Geoffrey Rudolph)
-publisher:Blackwell
-place:Oxford\, UK %3B Cambridge\, USA
-numPages:248
+author:G. R.  Elton  (Geoffrey Rudolph)
 isbn:0631176810
 isbn:9780631176817
-title:The English
+publisher:Blackwell
+place:Oxford, UK %3B Cambridge, USA
 publicationDate:1992
-date:1992
+callNumber:DA118
+pnxRecordId:nyu_aleph002068686
+title:The English
 date:1992
 language:eng
-tags:National characteristics\, English
+tags:National characteristics, English
 tags:England  Civilization
 tags:English national characteristics
 tags:Angleterre
@@ -18,8 +18,5 @@ tags:Inglaterra
 tags:Inghilterra
 tags:Anglii͡a
 tags:Engeland
-tags:National characteristics\, English; England -- Civilization
-callNumber:DA118
-pnxRecordId:nyu_aleph002068686
-description:xiii\, 248 p\. : ill\.\, maps ; 24 cm\.
-importedFrom:PNX
+description:xiii, 248 p. : ill., maps ; 24 cm.
+numPages:248

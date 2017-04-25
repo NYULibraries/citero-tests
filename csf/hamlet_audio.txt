@@ -1,31 +1,25 @@
 itemType:audioRecording
-author:Pierre\.  Groscolas
+author:Pierre.  Groscolas
 contributor:Gilles Chibaut
 contributor:Johnny Hallyday 1943-
 contributor:Gabriel Yared
 contributor:Roger Loubert
-contributor:William Shakespeare 1564-1616\.
+contributor:William Shakespeare 1564-1616.
+issn:546
 publisher:Philips
 place:France
-numPages:2
-issn:54694425469452
-issn:5469432
-title:<span class="searchword">Hamlet</span> [sound recording]
 publicationDate:2000
-date:2000]\, p1976
-date:2000
-date:1976
+pnxRecordId:nyu_aleph003268849
+title:<span class="searchword">Hamlet</span> [sound recording]
+date:2000], p1976
 language:fre
-tags:Musicals  Excerpts\, Arranged
-tags:Musical revues\, comedies\, etc
+tags:Musicals  Excerpts, Arranged
+tags:Musical revues, comedies, etc
 tags:Musical shows
 tags:Operettas
-tags:Shows\, Musical
+tags:Shows, Musical
 tags:Musical comedies
 tags:Musical plays
-tags:Musicals -- Excerpts\, Arranged
-pnxRecordId:nyu_aleph003268849
-description:2 sound discs : digital\, stereo\. ; 4 3/4 in\.
-notes:$$C contents$$V Ouverture (3:31) -- Prologue (1:04) -- Le vieux roi est mort (4:03) -- Le spectre du roi (1:15) -- L'orgie (2:51) -- Prière du spectre à <span class="searchword">Hamlet</span> (1:35) -- Roi vivant (2:25) -- J'effacerai de ma mémoire (3:20) -- Je suis fou (4:36) -- On a peur de lui (2:00) -- Phelie oh folie (3:20) -- L'asticot roi (2:41) -- Je lis (2:16) -- Que mal te bouffe (1:40) -- Doute (2:55) -- To be or not to be (4:59) -- Un trône est sans roi (3:18) -- Tu le (chœurs et chant) (4:01) -- Ta mère est putain (1:10) -- Pour l'amour (3:40) -- Le cimetière (2:18) -- Écoutez (intro) (1:13) -- Écoutez (1:41) -- La mort d'Ophélie (5:44) -- Je l'aimais ; Il est fou (3:59) -- Le duel (2:05) -- La mort d'<span class="searchword">Hamlet</span> (1:08) -- Le rideau tombe (3:39)\.
-notes:$$Ccredits$$VJohnny Hallyday\, vocals ; with vocal and instrumental acc\. ; Gabriel Yared and Roger Loubet\, arrangers and conductors\.
-importedFrom:PNX
+description:2 sound discs : digital, stereo. ; 4 3/4 in.
+notes:$$C contents$$V Ouverture (3:31) -- Prologue (1:04) -- Le vieux roi est mort (4:03) -- Le spectre du roi (1:15) -- L'orgie (2:51) -- Prière du spectre à <span class="searchword">Hamlet</span> (1:35) -- Roi vivant (2:25) -- J'effacerai de ma mémoire (3:20) -- Je suis fou (4:36) -- On a peur de lui (2:00) -- Phelie oh folie (3:20) -- L'asticot roi (2:41) -- Je lis (2:16) -- Que mal te bouffe (1:40) -- Doute (2:55) -- To be or not to be (4:59) -- Un trône est sans roi (3:18) -- Tu le (chœurs et chant) (4:01) -- Ta mère est putain (1:10) -- Pour l'amour (3:40) -- Le cimetière (2:18) -- Écoutez (intro) (1:13) -- Écoutez (1:41) -- La mort d'Ophélie (5:44) -- Je l'aimais ; Il est fou (3:59) -- Le duel (2:05) -- La mort d'<span class="searchword">Hamlet</span> (1:08) -- Le rideau tombe (3:39).
+numPages:2

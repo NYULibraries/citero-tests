@@ -1,21 +1,16 @@
 itemType:journal
-author:English Porcelain Circle\.
+author:English Porcelain Circle.
+contributor:English Porcelain Circle.
 publisher:English Porcelain Circle
 place:London
-numPages:25
-title:Transactions (English Porcelain Circle)
-title:Transactions
 publicationDate:1928
 journalTitle:Transactions (English Porcelain Circle)
-journalTitle:Transactions
-date:1928-1932
-date:1928
-date:1932
-language:eng
-tags:Pottery\, English  Periodicals
-tags:Porcelain\, English  Periodicals
-tags:English pottery
-tags:Pottery\, English -- Periodicals; Porcelain\, English -- Periodicals
 pnxRecordId:nyu_aleph000708449
-description:v\. : ill\. ; 25 cm\.
-importedFrom:PNX
+title:Transactions (English Porcelain Circle)
+date:1928-1932
+language:eng
+tags:Pottery, English  Periodicals
+tags:Porcelain, English  Periodicals
+tags:English pottery
+description:v. : ill. ; 25 cm.
+numPages:25

@@ -1,30 +1,33 @@
 itemType:document
-author:Roberto Basili editor\.
-author:Cristina Bosco editor\.
-author:Rodolfo Delmonte editor\.
-author:Alessandro Moschitti editor\.
-author:Maria Simi editor\.
-place:Cham
-numPages:1
+author:Roberto Basili editor.
+author:Cristina Bosco editor.
+author:Rodolfo Delmonte editor.
+author:Alessandro Moschitti editor.
+author:Maria Simi editor.
+contributor:Roberto Basili editor.
+contributor:Cristina Bosco editor.
+contributor:Rodolfo Delmonte editor.
+contributor:Alessandro Moschitti editor.
+contributor:Maria Simi editor.
 isbn:9783319142067
 isbn:3319142062
 isbn:3319142054
 isbn:9783319142050
-title:Harmonization and development of resources and tools for Italian natural language processing within the PARLI Project
+publisher:Cham 
+place: Springer
 publicationDate:2015
-date:2015
+callNumber:QA76.9.N38
+pnxRecordId:nyu_aleph004453285
+title:Harmonization and development of resources and tools for Italian natural language processing within the PARLI Project
 date:2015
 language:eng
 tags:Natural language processing (Computer science)
 tags:Italian language  Data processing
 tags:Computational intelligence
-tags:Artificial Intelligence (incl\. Robotics)
+tags:Artificial Intelligence (incl. Robotics)
 tags:Electronic books
 tags:NLP (Computer science)
-tags:Intelligence\, Computational
-tags:Natural language processing (Computer science); Italian language -- Data processing; Computational intelligence; Artificial Intelligence (incl\. Robotics); Electronic books
-callNumber:QA76\.9\.N38
-pnxRecordId:nyu_aleph004453285
-description:1 online resource (xiv\, 171 pages) : illustrations\.
-notes:$$Csummary$$VThe papers collected in this volume are selected as a sample of the progress in Natural Language Processing (NLP) performed within the Italian NLP community and especially attested by the PARLI project\. PARLI (Portale per l?Accesso alle Risorse in Lingua Italiana) is a project partially funded by the Ministero Italiano per l?Università e la Ricerca (PRIN 2008) from 2008 to 2012 for monitoring and fostering the harmonic growth and coordination of the activities of Italian NLP\. It was proposed by various teams of researchers working in Italian universities and research institutions\. According to the spirit of the PARLI project\, most of the resources and tools created within the project and here described are freely distributed and they did not terminate their life at the end of the project itself\, hoping they could be a key factor in future development of computational linguistics\.
-importedFrom:PNX
+tags:Intelligence, Computational
+description:1 online resource (xiv, 171 pages) : illustrations.
+notes:$$Csummary$$VThe papers collected in this volume are selected as a sample of the progress in Natural Language Processing (NLP) performed within the Italian NLP community and especially attested by the PARLI project. PARLI (Portale per l?Accesso alle Risorse in Lingua Italiana) is a project partially funded by the Ministero Italiano per l?Università e la Ricerca (PRIN 2008) from 2008 to 2012 for monitoring and fostering the harmonic growth and coordination of the activities of Italian NLP. It was proposed by various teams of researchers working in Italian universities and research institutions. According to the spirit of the PARLI project, most of the resources and tools created within the project and here described are freely distributed and they did not terminate their life at the end of the project itself, hoping they could be a key factor in future development of computational linguistics.
+numPages:1

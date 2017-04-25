@@ -1,20 +1,16 @@
 itemType:document
 author:Society of English Singers
+issn:20351
 publisher:Boosey & Hawkes
 place:London %3B New York
-numPages:2
-issn:2035120352
-title:A heritage of 20th century British song\.
 publicationDate:1977
-date:pref\. 1977
-date:1977
+pnxRecordId:nyu_aleph002345953
+title:A heritage of 20th century British song.
+date:pref. 1977
 language:eng
 tags:Songs with piano
-tags:Songs\, English
+tags:Songs, English
 tags:English songs
-tags:Songs with piano; Songs\, English
-pnxRecordId:nyu_aleph002345953
-description:2 v\. ; 28 cm\.
-notes:$$Ccontents$$VV\. 1: Love on my heart from heaven fell / Carey -- To daffodils / Delius -- Epitaph on Salathiel Pavy / Browne -- Is she not passing fair? ; Speak\, Music / Elgar -- The virgin's cradle hymn / Fryer -- The bells of Clermont town / Goodhart -- Carol of the skiddaw yowes ; I will go with my father a ploughing ; Sleep ; Spring / Gurney -- Philomel / Harrison -- Lullaby ; Scythe Song ; Sea wrack / Harty -- O men from the fields / Hughes -- See where my love a maying goes ; Sunny march / Lidgey -- Magdelen / Maude -- A spring song / Parry -- In the highlands ; Sorrow and spring / Peel -- Diaphenia ; The fairy boat ; Nanny ; Oh! My Swetynge! / Samuel -- Villanelle / Scott -- A widow bird sat mourning / Selby -- Come into the garden\, Maude ; In the summertime on Bredon ; The lads in their hundreds ; On the idle hill of summer ; White in the moon ; Young love lies sleeping / Somervell -- Cuttin' rushes ; Drake's drum ; The fairy lough ; A lullaby ; The old superb ; Outward Bound ; The rain it raineth every day / Stanford -- The roadside fire ; The vagabond ; Whither must I wander? ; Youth and love / Vaughan Williams -- Corinna's going a-maying / Walker -- Mistress mine ; The splendour falls / Walthew -- Row\, burning\, row / Weston -- Crabbed age and youth ; Ophelia's song / White\.
-notes:$$Ccontents$$VV\.2: Shepherd's holiday / Benjamin -- How love came in / Berkeley -- Being young and green / Bliss -- Go not\, happy day ; Love went a-riding ; So perverse / Bridge -- A charm ; The choirmaster's burial ; Fish in the unruffled lakes ; Nocturne ; Sephestia's lullaby ; Since she whom I loved ; Wagtail and baby / Britten -- Cupid and my campaspe / Dalby -- A Christmas carol / Davidson -- Channel firing ; Come away\, death ; Fear no more the heat o' the sun ; Rollicum-rorum ; The sigh ; To a poet a thousand years hence / Finzi -- The fields are full ; Nod ; The ship of Rio ; Silver / Gibbs -- The estuary ; A green cornfield ; Lavender pond ; Money-o ; Sweet Chance / Head -- Lullay thou little tiny child / Hope -- Girl's song ; King David ; A madrigal / Howells -- Heart's desire ; I have twelve oxen ; Love is a sickness ; Spring sorrow / Ireland -- Diaphenia / Moeran -- Fair house of joy ; Love's philosophy ; O mistress mine ; Song of the blackbird ; To daisies ; Weep you no more / Quilter -- The bayly beareth the bell away ; My little sweet darling ; Sweet content ; Take\, oh take those lips away ; Whenas the rye / Warlock\.
-importedFrom:PNX
+description:2 v. ; 28 cm.
+notes:$$Ccontents$$VV. 1: Love on my heart from heaven fell / Carey -- To daffodils / Delius -- Epitaph on Salathiel Pavy / Browne -- Is she not passing fair? ; Speak, Music / Elgar -- The virgin's cradle hymn / Fryer -- The bells of Clermont town / Goodhart -- Carol of the skiddaw yowes ; I will go with my father a ploughing ; Sleep ; Spring / Gurney -- Philomel / Harrison -- Lullaby ; Scythe Song ; Sea wrack / Harty -- O men from the fields / Hughes -- See where my love a maying goes ; Sunny march / Lidgey -- Magdelen / Maude -- A spring song / Parry -- In the highlands ; Sorrow and spring / Peel -- Diaphenia ; The fairy boat ; Nanny ; Oh! My Swetynge! / Samuel -- Villanelle / Scott -- A widow bird sat mourning / Selby -- Come into the garden, Maude ; In the summertime on Bredon ; The lads in their hundreds ; On the idle hill of summer ; White in the moon ; Young love lies sleeping / Somervell -- Cuttin' rushes ; Drake's drum ; The fairy lough ; A lullaby ; The old superb ; Outward Bound ; The rain it raineth every day / Stanford -- The roadside fire ; The vagabond ; Whither must I wander? ; Youth and love / Vaughan Williams -- Corinna's going a-maying / Walker -- Mistress mine ; The splendour falls / Walthew -- Row, burning, row / Weston -- Crabbed age and youth ; Ophelia's song / White.
+numPages:2
