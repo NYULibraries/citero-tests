@@ -1,0 +1,99 @@
+itemType:videoRecording
+author:Chris Columbus
+author:Daniel Radcliffe 1989-
+author:Rupert Grint 1988-
+author:Emma Watson 1990-
+author:Robbie Coltrane
+author:Kenneth Branagh
+author:Warwick Davis
+author:Richard Griffiths 1947-
+author:John Cleese
+author:Richard Harris 1930-2002.
+author:Jason Isaacs 1963-
+author:Maggie Smith 1934-
+author:Alan Rickman
+author:Fiona Shaw 1958-
+author:Julie Walters 1950-
+author:Ralph Fiennes
+author:J. K Rowling
+author:Warner Bros. Pictures (1969- )
+author:Heyday Films.
+author:1492 Pictures.
+author:Warner Home Video (Firm)
+contributor:Chris Columbus
+contributor:Daniel Radcliffe 1989-
+contributor:Rupert Grint 1988-
+contributor:Emma Watson 1990-
+contributor:Robbie Coltrane
+contributor:Kenneth Branagh
+contributor:Warwick Davis
+contributor:Richard Griffiths 1947-
+contributor:John Cleese
+contributor:Richard Harris 1930-2002.
+contributor:Jason Isaacs 1963-
+contributor:Maggie Smith 1934-
+contributor:Alan Rickman
+contributor:Fiona Shaw 1958-
+contributor:Julie Walters 1950-
+contributor:Ralph Fiennes
+contributor:J. K Rowling
+contributor:Warner Bros. Pictures (1969- )
+contributor:Heyday Films.
+contributor:1492 Pictures.
+contributor:Warner Home Video (Firm)
+isbn:0780674316
+isbn:9780780674318
+issn:3000039315
+publisher:Warner Home Video
+place:Burbank, CA
+publicationDate:2011
+pnxRecordId:dedupmrg375011614
+title:<span class="searchword">Harry</span> <span class="searchword">Potter</span> complete 8-film collection [videorecording]
+date:2011
+language:eng
+edition:Widescreen ed.
+tags:Potter, Harry (Fictitious character)  Drama
+tags:Potter, Harry (Fictitious character)
+tags:Granger, Hermione (Fictitious character)  Drama
+tags:Weasley, Ron (Fictitious character)  Drama
+tags:Hogwarts School of Witchcraft and Wizardry (Imaginary organization)  Drama
+tags:Wizards  Drama
+tags:Magic  Drama
+tags:Good and evil  Drama
+tags:Boarding schools  Drama
+tags:Boarding schools
+tags:Good and evil
+tags:Granger, Hermione (Fictitious character)
+tags:Hogwarts School of Witchcraft and Wizardry (Imaginary organization)
+tags:Magic
+tags:Weasley, Ron (Fictitious character)
+tags:Wizards
+tags:England  Drama
+tags:England
+tags:Fantasy films
+tags:Feature films
+tags:Film adaptations
+tags:Action and adventure films
+tags:Video recordings for the hearing impaired
+tags:Drama
+tags:Spells
+tags:Sorcery
+tags:Necromancy
+tags:Magick
+tags:Hermione Granger (Fictitious character)
+tags:Hermione Jean Granger (Fictitious character)
+tags:Ron Weasley (Fictitious character)
+tags:Ronald Bilius Weasley (Fictitious character)
+tags:Weasley, Ronald Bilius (Fictitious character)
+tags:Hogwarts School of Witchcraft and Wizardry (Imaginary place)
+tags:Enchanters
+tags:Sorcerers
+tags:Evil
+tags:Wickedness
+tags:Angleterre
+tags:Inglaterra
+tags:Inghilterra
+tags:Anglii͡a
+tags:Engeland
+description:8 videodiscs (1180 min.) : sd., col. ; 4 3/4 in.
+numPages:8

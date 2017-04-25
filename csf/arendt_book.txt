@@ -1,0 +1,29 @@
+itemType:book
+author:<span class="searchword">Hannah</span>  <span class="searchword">Arendt</span>  1906-1975.
+isbn:0805242252
+isbn:9780805242256
+publisher:Schocken Books
+place:New York
+publicationDate:2004
+callNumber:JC480
+pnxRecordId:dedupmrg370680883
+title:The origins of totalitarianism
+date:c2004
+language:eng
+edition:1st ed.
+tags:Totalitarianism
+tags:Imperialism
+tags:Antisemitism
+tags:Colonialism
+tags:Empires
+tags:Neocolonialism
+tags:Expansion (United States politics)
+tags:Totalitarian state
+tags:Anti-Jewish attitudes
+tags:Anti-Semitism
+tags:Totalitarianism.
+tags:Imperialism.
+tags:Antisemitism.
+description:xxvii, 674 p. ; 25 cm.
+notes:$$Ccontents$$VAntisemitism as an outrage to common sense -- The Jews, the nation-state, and the birth of antisemitism -- The Jews and society -- The Dreyfus Affair -- The political emancipation of the bourgeoisie -- Race-thinking before racism -- Race and bureaucracy -- Continental imperialism : the pan-movements -- The decline of the nation-state and the end of the rights of man -- A classless society -- The totalitarian movement -- Totalitarianism in power -- Ideology and terror : a novel form of government.
+numPages:674

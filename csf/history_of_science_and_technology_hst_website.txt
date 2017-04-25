@@ -1,0 +1,24 @@
+itemType:document
+author:Society for the History of Technology.
+author:History of Science Society.
+contributor:Society for the History of Technology.
+contributor:History of Science Society.
+publisher:Research Libraries Information Network]
+place:Palo Alto, Calif.
+publicationDate:1976
+pnxRecordId:nyu_aleph002315172
+title:History of science and technology (HST)
+date:1976
+language:eng
+tags:Science  History
+tags:Technology  History
+tags:Electronic indexes
+tags:History History Africa History East Asia History Europe History Latin America and Caribbean History Middle East History North America History Slavic
+tags:Science, Applied
+tags:Applied science
+tags:Arts, Useful
+tags:Useful arts
+tags:Sciences
+tags:Natural science
+tags:Science of science
+notes:$$Csummary$$VHST describes journal articles, conference proceedings, books, book reviews, and dissertations on the History of science and technology... Citations reflect the contents of over 600 journals, plus partial contents of several hundred more. Coverage includes all languages in which these materials are published.

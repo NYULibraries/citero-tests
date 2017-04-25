@@ -1,0 +1,16 @@
+itemType:book
+author:Gustav  Doetsch  1892-
+contributor:Rudolf Herschel
+publisher:Van Nostrand
+place:London %3B New York
+publicationDate:1961
+pnxRecordId:dedupmrg372312149
+title:Guide to the applications of <span class="searchword">Laplace</span> transforms
+date:1961
+language:eng
+tags:Laplace transformation
+tags:Z transformation
+tags:Transformation, Laplace
+tags:Transformation, Z
+description:255 p. : ill. ; 24 cm.
+numPages:255

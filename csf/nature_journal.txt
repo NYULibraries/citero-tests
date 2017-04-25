@@ -1,0 +1,24 @@
+itemType:journal
+author:Norman Lockyer Sir, 1836-1920.
+author:Sidney Lapidus 1937- donor.
+contributor:Norman Lockyer Sir, 1836-1920.
+contributor:Sidney Lapidus 1937- donor.
+issn:0028
+publisher:Macmillan Journals, etc.]
+place:London, etc
+publicationDate:1869
+journalTitle:Nature.
+callNumber:Q1
+pnxRecordId:nyu_aleph001206179
+title:<span class="searchword">Nature</span>.
+date:1869
+language:eng
+tags:Science  Periodicals
+tags:Electronic journals
+tags:Science and technology Biology Chemistry Computer science Consumer health Environmental sciences Food studies and nutrition Health policy and administration Health sciences Mathematics and statistics Physics and astronomy Psychology, psychiatry and mental health Science and technology Technology and engineering
+tags:Sciences
+tags:Natural science
+tags:Science of science
+description:v. : ill. ; 26-28 cm.
+notes:$$Csummary$$VContains tables of contents of the previous four weeks' issues of the print publication, together with summaries of all original research articles and News and Views articles.
+numPages:26

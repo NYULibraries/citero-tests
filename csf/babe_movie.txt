@@ -1,0 +1,47 @@
+itemType:videoRecording
+author:Stanley Rubin 1917-
+author:Norman Felton 1913-
+author:Buzz Kulik
+author:Joanna Lee
+author:Susan Clark 1940-
+author:Alex Karras
+author:Slim Pickens
+author:Jeanette Nolan 1911-1998.
+author:Ellen Geer
+author:Ford Rainey 1908-2005.
+author:Arch Johnson 1923-
+author:Philip Bourneouf
+author:Byron Morrow 1920-
+author:Charles F Wheeler
+author:Jerry Goldsmith
+contributor:Stanley Rubin 1917-
+contributor:Norman Felton 1913-
+contributor:Buzz Kulik
+contributor:Joanna Lee
+contributor:Susan Clark 1940-
+contributor:Alex Karras
+contributor:Slim Pickens
+contributor:Jeanette Nolan 1911-1998.
+contributor:Ellen Geer
+contributor:Ford Rainey 1908-2005.
+contributor:Arch Johnson 1923-
+contributor:Philip Bourneouf
+contributor:Byron Morrow 1920-
+contributor:Charles F Wheeler
+contributor:Jerry Goldsmith
+publisher:Turner Entertainment Co. : Distributed by Warner Home Video
+place:Burbank, CA
+publicationDate:1975
+pnxRecordId:nyu_aleph003379073
+title:<span class="searchword">Babe</span> [videorecording]
+date:c1975, c2009
+language:eng
+tags:Zaharias, Babe Didrikson, 1911-1956
+tags:Women athletes  United States Biography
+tags:Zaharias, Mildred Babe Didrikson
+tags:Didrikson, Babe
+tags:Female athletes
+tags:Athletes, Women
+description:1 videodisc (97 min.) : sd., col. with b&w sequences ; 4 3/4 in.
+notes:$$C summary$$V This is <span class="searchword">Babe's</span> story, from her early Texas tomboy days to her Gold Medal triumphs at the 1932 Olympics, from her remarkable career as a champion golfer to her fulfilling marriage to wrestler George Zaharias to the final battle with cancer.
+numPages:1

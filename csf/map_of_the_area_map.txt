@@ -1,0 +1,38 @@
+itemType:map
+author:DeWitt McClellan Lockman 1870-1957 donor.
+contributor:DeWitt McClellan Lockman 1870-1957 donor.
+publicationDate:1826
+callNumber:G3804.N4:2M514G46 1826
+pnxRecordId:nyu_aleph001538793
+title:[Map of the area later bounded by 29th and 30th Streets, 6th and 8th Avenues, Manhattan, New York (N.Y.)]
+date:Between 1826 and 1836
+language:eng
+tags:Schulz, Alexander H
+tags:Leistner, Christian
+tags:Brady, John, Manhattan property owner
+tags:Graham, Charles
+tags:Tully, Bartholemew
+tags:Sawyer, Lemuel, 1777-1852
+tags:Smyth, Charles, Manhattan property owner
+tags:Real property  New York (State) New York Maps
+tags:Landowners  New York (State) New York Maps
+tags:Chelsea (Manhattan, New York, N.Y.)  Maps, Manuscript
+tags:Midtown South (New York, N.Y.)  Maps, Manuscript
+tags:Maps, Manuscript
+tags:Cadastral maps
+tags:Sawyer, Mr. (Lemuel), 1777-1852
+tags:Blackbeard, Author of, 1777-1852
+tags:Author of Blackbeard, 1777-1852
+tags:Landholders
+tags:Owners of land
+tags:Real estate law
+tags:Real estate
+tags:Realty
+tags:Cadastral surveys
+tags:Property, Real
+tags:Real property Law and legislation
+tags:Catastral surveys
+tags:Freehold
+tags:Limitations (Law)
+description:1 map : ms ; 18 x 41 cm. + 1 text (7 leaves : ms. ; 21 x 34 cm.)_
+numPages:1

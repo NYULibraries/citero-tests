@@ -1,0 +1,36 @@
+itemType:document
+author:Donna Chaproniere
+author:Phillip Lindley
+contributor:Donna Chaproniere
+contributor:Phillip Lindley
+isbn:2503510477
+isbn:9782503510477
+publisher:Brepols
+place:Turnhout, Belgium
+publicationDate:2001
+callNumber:NA5461
+pnxRecordId:nyu_aleph000800455
+title:English parish churches
+date:c2001-
+language:eng
+edition:Release 1.
+tags:Church buildings  England Photographs
+tags:Church decoration and ornament  England Photographs
+tags:Architecture  England Photographs
+tags:England  Church history
+tags:Angleterre
+tags:Inglaterra
+tags:Inghilterra
+tags:Anglii͡a
+tags:Engeland
+tags:Ecclesiastical decoration and ornament
+tags:Church ornament
+tags:Churches
+tags:Buildings Design and construction
+tags:Construction
+tags:Building design
+tags:Western architecture (Western countries)
+tags:Architecture, Western (Western countries)
+description:computer optical discs : col. and b&w ; 4 3/4 in.
+notes:$$Ccontents$$Vv. 1. East Anglia South
+numPages:4

@@ -1,11 +1,30 @@
-RT GEN
-A1 editor., Alessandro Moschitti
-A3 editor., Cristina Bosco
-PP Cham
-EP 1
-SN 9783319142050
-T1 Harmonization and development of resources and tools for Italian natural language processing within the PARLI Project
-YR 2015
-K1 Italian language  Data processing
-ER 
- 
+RT 
+T1 Harmonization and development of resources and tools for Italian natural language processing within the PARLI Project
+A1 Roberto Basili editor.
+A1 Cristina Bosco editor.
+A1 Rodolfo Delmonte editor.
+A1 Alessandro Moschitti editor.
+A1 Maria Simi editor.
+A2 Roberto Basili editor.
+A2 Cristina Bosco editor.
+A2 Rodolfo Delmonte editor.
+A2 Alessandro Moschitti editor.
+A2 Maria Simi editor.
+PB Cham
+PP Springer
+YR 2015
+SN 9783319142067
+SN 3319142062
+SN 3319142054
+SN 9783319142050
+K1 Natural language processing (Computer science)
+K1 Italian language  Data processing
+K1 Computational intelligence
+K1 Artificial Intelligence (incl. Robotics)
+K1 Electronic books
+K1 NLP (Computer science)
+K1 Intelligence, Computational
+ER 
+ 
+ 
+
