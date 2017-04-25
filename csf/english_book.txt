@@ -1,0 +1,18 @@
+itemType:book
+author:Hilary Minns
+author:Mike Torbe
+publisher:Ward Lock Educational
+place:London
+numPages:91
+isbn:0706241053
+isbn:9780706241051
+title:English
+publicationDate:1981
+date:1981
+date:1981
+language:eng
+tags:English language  Study and teaching
+tags:English language -- Study and teaching
+pnxRecordId:nyu_aleph002669901
+description:91 p\. ; 22 cm\.
+importedFrom:PNX

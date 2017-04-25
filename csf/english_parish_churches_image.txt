@@ -1,0 +1,39 @@
+itemType:document
+author:Donna Chaproniere
+author:Phillip Lindley
+publisher:Brepols
+place:Turnhout\, Belgium
+numPages:4
+isbn:25035104771
+isbn:9782503510477
+title:English parish churches
+publicationDate:2001
+date:c2001-
+date:2001
+date:9999
+language:eng
+edition:Release 1\.
+tags:Church buildings  England Photographs
+tags:Church decoration and ornament  England Photographs
+tags:Architecture  England Photographs
+tags:England  Church history
+tags:Angleterre
+tags:Inglaterra
+tags:Inghilterra
+tags:Anglii͡a
+tags:Engeland
+tags:Ecclesiastical decoration and ornament
+tags:Church ornament
+tags:Churches
+tags:Buildings Design and construction
+tags:Construction
+tags:Building design
+tags:Western architecture (Western countries)
+tags:Architecture\, Western (Western countries)
+tags:Church buildings -- England -- Photographs; Church decoration and ornament -- England -- Photographs; Architecture -- England -- Photographs; England -- Church history
+callNumber:NA5461
+pnxRecordId:nyu_aleph000800455
+description:computer optical discs : col\. and b&w ; 4 3/4 in\.
+notes:$$Ccontents$$Vv\. 1\. East Anglia South
+notes:$$Csummary$$VExamines the history and architectural features of English parish churches\, drawing on a photographic archive developed since the early 1950s\. The photographs range from general views of churches in the landscape\, to views of exterior and interior details including roofs\, benchends\, fonts\, pulpits\, monuments\, and stained glass\. The archive is arranged geologically and regionally\, relating the development of parish churches to the economic and landscape history of their localities\. Included is a searchable glossary which explains art historical and architectural terms used throughout the textual descriptions\.
+importedFrom:PNX

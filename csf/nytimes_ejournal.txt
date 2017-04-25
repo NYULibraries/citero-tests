@@ -1,0 +1,6 @@
+itemType:document
+title:<span class="searchword">NYTimes</span>\.com Feed
+journalTitle:NYTimes\.com Feed
+language:eng
+pnxRecordId:NYUMARCIT2670000000172785
+importedFrom:PNX

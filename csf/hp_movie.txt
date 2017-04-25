@@ -1,0 +1,103 @@
+itemType:videoRecording
+author:Chris Columbus
+author:Daniel Radcliffe 1989-
+author:Rupert Grint 1988-
+author:Emma Watson 1990-
+author:Robbie Coltrane
+author:Kenneth Branagh
+author:Warwick Davis
+author:Richard Griffiths 1947-
+author:John Cleese
+author:Richard Harris 1930-2002\.
+author:Jason Isaacs 1963-
+author:Maggie Smith 1934-
+author:Alan Rickman
+author:Fiona Shaw 1958-
+author:Julie Walters 1950-
+author:Ralph Fiennes
+author:J\. K Rowling
+author:Warner Bros\. Pictures (1969- )
+author:Heyday Films\.
+author:1492 Pictures\.
+author:Warner Home Video (Firm)
+publisher:Warner Home Video
+publisher:Distributed by Warner Home Video
+place:Burbank\, CA
+place:Burbank\, Calif\.
+numPages:8
+isbn:07806743169
+isbn:97807806743189
+issn:2000048802
+issn:2000048803
+issn:2000048804
+issn:2000048805
+issn:2000048806
+issn:2000020451
+issn:2000045492
+issn:2000066307
+issn:3000039315
+title:<span class="searchword">Harry</span> <span class="searchword">Potter</span> complete 8-film collection [videorecording]
+publicationDate:2011
+date:2011
+date:2011
+date:2001
+language:eng
+edition:Widescreen ed\.
+tags:Potter\, Harry (Fictitious character)  Drama
+tags:Potter\, Harry (Fictitious character)
+tags:Granger\, Hermione (Fictitious character)  Drama
+tags:Weasley\, Ron (Fictitious character)  Drama
+tags:Hogwarts School of Witchcraft and Wizardry (Imaginary organization)  Drama
+tags:Wizards  Drama
+tags:Magic  Drama
+tags:Good and evil  Drama
+tags:Boarding schools  Drama
+tags:Boarding schools
+tags:Good and evil
+tags:Granger\, Hermione (Fictitious character)
+tags:Hogwarts School of Witchcraft and Wizardry (Imaginary organization)
+tags:Magic
+tags:Weasley\, Ron (Fictitious character)
+tags:Wizards
+tags:England  Drama
+tags:England
+tags:Fantasy films
+tags:Feature films
+tags:Film adaptations
+tags:Action and adventure films
+tags:Video recordings for the hearing impaired
+tags:Drama
+tags:Spells
+tags:Sorcery
+tags:Necromancy
+tags:Magick
+tags:Hermione Granger (Fictitious character)
+tags:Hermione Jean Granger (Fictitious character)
+tags:Ron Weasley (Fictitious character)
+tags:Ronald Bilius Weasley (Fictitious character)
+tags:Weasley\, Ronald Bilius (Fictitious character)
+tags:Hogwarts School of Witchcraft and Wizardry (Imaginary place)
+tags:Enchanters
+tags:Sorcerers
+tags:Evil
+tags:Wickedness
+tags:Angleterre
+tags:Inglaterra
+tags:Inghilterra
+tags:Anglii͡a
+tags:Engeland
+tags:<span class="searchword">Potter</span>\, <span class="searchword">Harry</span> (Fictitious character) -- Drama; Granger\, Hermione (Fictitious character) -- Drama; Weasley\, Ron (Fictitious character) -- Drama; Hogwarts School of Witchcraft and Wizardry (Imaginary organization) -- Drama; Magic -- Drama; Good and evil -- Drama; Boarding schools -- Drama; England -- Drama; Fantasy films; Feature films; Video recordings for the hearing impaired
+pnxRecordId:dedupmrg375011614
+description:8 videodiscs (1180 min\.) : sd\.\, col\. ; 4 3/4 in\.
+notes:$$C contents$$V disc 1\. <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the sorcerer's stone -- disc 2\. <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the chamber of secrets -- disc 3\. <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the prisoner of Azkaban -- disc 4\. <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the goblet of fire -- disc 5\. <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the order of the phoenix -- disc 6\. <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the half-blood prince -- disc 7\. <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the deathly hallows : part 1 -- disc 8\. <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the deathly hallows : part 2\.
+notes:$$C  summary$$V  <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the sorcerer's stone: The magical adventure begins when <span class="searchword">Harry</span> <span class="searchword">Potter</span> is invited to attend Hogwarts School of Witchcraft and Wizardry\.
+notes:$$C   summary$$V   <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the chamber of secrets: Cars fly\, trees attack and a mysterious house-elf warns <span class="searchword">Harry</span> of great danger as he returns for his second year\.
+notes:$$C    summary$$V    <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the prisoner of Azkaban: <span class="searchword">Harry</span> must confront soul-sucking Dementors\, outsmart a werewolf and learn the truth about the escaped prisoner of Azkaban - Sirius Black\.
+notes:$$C     summary$$V     <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the goblet of fire: <span class="searchword">Harry</span> must overcome a deadly dragon\, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named\.
+notes:$$C      summary$$V      <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the order of the phoenix: When few believe that Lord Voldemort has returned\, <span class="searchword">Harry</span> must secretly train his friends for the wizarding war ahead\.
+notes:$$C       summary$$V       <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the half-blood prince: As Lord Voldemort tightens his grip on both Muggle and wizarding worlds\, <span class="searchword">Harry</span> and Dumbledore work to find the key to unlock Voldemort's defenses\.
+notes:$$C        summary$$V        <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the deathly hallows : part 1: <span class="searchword">Harry</span>\, Ron and Hermione set out to track down and destroy the secret to Voldemort's power--the Horcruxes\. On their own and on the run\, the three must rely on one another more than ever\.\.\.but Dark Forces threaten to tear them apart\.
+notes:$$C         summary$$V         <span class="searchword">Harry</span> <span class="searchword">Potter</span> and the deathly hallows : part 2: In the epic finale\, the battle between the good and evil forces of the wizarding world escalates into an all-out war\. The stakes have never been higher and no one is safe\. But it is <span class="searchword">Harry</span> who may be called upon to make the ultimate sacrifice as he draws closer to the climactic showdown with Lord Voldemort\. It all ends here\.
+notes:$$Ccredits$$VDirector of photography\, Roger Pratt ; edited by Peter Honess ; music by John Williams\.
+notes:$$Ccredits$$VDaniel Radcliffe\, Rupert Grint\, Emma Watson\, Kenneth Branagh\, John Cleese\, Robbie Coltrane\, Warwick Davis\, Richard Griffiths\, Richard Harris\, Jason Isaacs\, Alan Rickman\, Fiona Shaw\, Maggie Smith\, Julie Walters\, Ralph Fiennes\.
+importedFrom:PNX
